@@ -251,14 +251,14 @@ BitmasksPointers:
 	dw LugiaBitmasks
 	dw HoOhBitmasks
 	dw CelebiBitmasks
-	dw AzurillBitmasks
-	dw WynautBitmasks
-	dw AmbipomBitmasks
-	dw EggBitmasks
-	dw EggBitmasks ; $100
 	dw TreekoBitmasks
 	dw GrovyleBitmasks
 	dw SceptileBitmasks
+	dw EggBitmasks
+	dw EggBitmasks ; $100
+	dw AzurillBitmasks
+	dw WynautBitmasks
+	dw AmbipomBitmasks
 	dw MismagiusBitmasks
 	dw HonchkrowBitmasks
 	dw BonslyBitmasks

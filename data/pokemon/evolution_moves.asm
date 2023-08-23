@@ -255,14 +255,15 @@ endc
 	db NO_MOVE      ; LUGIA
 	db NO_MOVE      ; HO_OH
 	db NO_MOVE      ; CELEBI
-	db NO_MOVE      ; AZURILL
-	db NO_MOVE      ; WYNAUT
-	db NO_MOVE      ; AMBIPOM
-	db NO_MOVE      ; EGG
-	db NO_MOVE      ; $100
+	;Hoenn mons
 	db NO_MOVE      ; TREEKO
 	db NO_MOVE      ; GROVYLE
 	db NO_MOVE      ; SCEPTILE
+	db NO_MOVE      ; EGG
+	db NO_MOVE      ; $100
+	db NO_MOVE      ; AZURILL
+	db NO_MOVE      ; WYNAUT
+	db NO_MOVE      ; AMBIPOM
 	db DAZZLINGLEAM ; MISMAGIUS
 	db NO_MOVE      ; HONCHKROW
 	db NO_MOVE      ; BONSLY

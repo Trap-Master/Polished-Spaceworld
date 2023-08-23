@@ -255,14 +255,15 @@ MiniIconPointers:
 	mini_icon Lugia
 	mini_icon HoOh
 	mini_icon Celebi
-	mini_icon Azurill
-	mini_icon Wynaut
-	mini_icon Ambipom
-	mini_icon Egg
-	mini_icon Egg ; $100
+	;Hoenn mons
 	mini_icon Treeko
 	mini_icon Grovyle
 	mini_icon Sceptile
+	mini_icon Egg
+	mini_icon Egg ; $100
+	mini_icon Azurill
+	mini_icon Wynaut
+	mini_icon Ambipom
 	mini_icon Mismagius
 	mini_icon Honchkrow
 	mini_icon Bonsly

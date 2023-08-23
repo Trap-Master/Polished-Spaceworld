@@ -251,14 +251,15 @@ AnimationPointers:
 	dw LugiaAnimation
 	dw HoOhAnimation
 	dw CelebiAnimation
-	dw AzurillAnimation
-	dw WynautAnimation
-	dw AmbipomAnimation
-	dw EggAnimation
-	dw EggAnimation
+	; Hoenn pokemon
 	dw TreekoAnimation
 	dw GrovyleAnimation
 	dw SceptileAnimation
+	dw EggAnimation
+	dw EggAnimation
+	dw AzurillAnimation
+	dw WynautAnimation
+	dw AmbipomAnimation
 	dw MismagiusAnimation
 	dw HonchkrowAnimation
 	dw BonslyAnimation

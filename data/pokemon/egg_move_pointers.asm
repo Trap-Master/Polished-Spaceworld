@@ -251,14 +251,15 @@ EggMovePointers::
 	dw NoEggMoves             ; Lugia
 	dw NoEggMoves             ; HoOh
 	dw NoEggMoves             ; Celebi
-	dw AzurillEggMoves        ; Azurill
-	dw WynautEggMoves         ; Wynaut
-	dw NoEggMoves             ; Ambipom
-	dw NoEggMoves             ; Egg
-	dw NoEggMoves             ; $100
+	;Hoenn mons
 	dw NoEggMoves             ; Treeko
 	dw NoEggMoves             ; Grovyle
 	dw NoEggMoves             ; Sceptile
+	dw NoEggMoves             ; Egg
+	dw NoEggMoves             ; $100
+	dw AzurillEggMoves        ; Azurill
+	dw WynautEggMoves         ; Wynaut
+	dw NoEggMoves             ; Ambipom
 	dw NoEggMoves             ; Mismagius
 	dw NoEggMoves             ; Honchkrow
 	dw BonslyEggMoves         ; Bonsly

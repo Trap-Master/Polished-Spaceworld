@@ -251,14 +251,14 @@ AnimationExtraPointers:
 	dw LugiaAnimationExtra
 	dw HoOhAnimationExtra
 	dw CelebiAnimationExtra
-	dw AzurillAnimationExtra
-	dw WynautAnimationExtra
-	dw AmbipomAnimationExtra
-	dw EggAnimationExtra
-	dw EggAnimationExtra ; $100
 	dw TreekoAnimationExtra
 	dw GrovyleAnimationExtra
 	dw SceptileAnimationExtra
+	dw EggAnimationExtra
+	dw EggAnimationExtra ; $100
+	dw AzurillAnimationExtra
+	dw WynautAnimationExtra
+	dw AmbipomAnimationExtra
 	dw MismagiusAnimationExtra
 	dw HonchkrowAnimationExtra
 	dw BonslyAnimationExtra

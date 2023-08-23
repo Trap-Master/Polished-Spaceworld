@@ -252,15 +252,15 @@ PokedexDataPointerTable:
 	dba LugiaPokedexEntry
 	dba HoOhPokedexEntry
 	dba CelebiPokedexEntry
-	dba AzurillPokedexEntry
-	dba WynautPokedexEntry
-	dba AmbipomPokedexEntry
-	dba BulbasaurPokedexEntry ; EGG
-	dba BulbasaurPokedexEntry ; $100
 	; Hoenn pokemon
 	dba TreekoPokedexEntry
 	dba GrovylePokedexEntry
 	dba SceptilePokedexEntry
+	dba BulbasaurPokedexEntry ; EGG
+	dba BulbasaurPokedexEntry ; $100
+	dba AzurillPokedexEntry
+	dba WynautPokedexEntry
+	dba AmbipomPokedexEntry
 	dba MismagiusPokedexEntry
 	dba HonchkrowPokedexEntry
 	dba BonslyPokedexEntry

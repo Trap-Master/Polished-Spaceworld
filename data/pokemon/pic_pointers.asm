@@ -255,14 +255,15 @@ PokemonPicPointers::
 	pics Lugia
 	pics HoOh
 	pics Celebi
-	pics Azurill
-	pics Wynaut
-	pics Ambipom
-	dbas EggPic, EggPic
-	dbas EggPic, EggPic ; $100
+	; Hoenn mons
 	pics Treeko
 	pics Grovyle
 	pics Sceptile
+	dbas EggPic, EggPic
+	dbas EggPic, EggPic ; $100
+	pics Azurill
+	pics Wynaut
+	pics Ambipom
 	pics Mismagius
 	pics Honchkrow
 	pics Bonsly

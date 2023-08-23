@@ -258,14 +258,15 @@ PokemonBodyData:
 	body_data  52, 2160, WINGS,        WHITE  ; LUGIA
 	body_data  38, 1990, WINGS,        RED    ; HO_OH
 	body_data   6,   50, BIPEDAL,      GREEN  ; CELEBI
-	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
-	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
-	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM
-	body_data   0,    0, HEAD,         RED    ; EGG
-	body_data   0,    0, HEAD,         RED    ; $100
+	;Hoenn Mons
 	body_data   5,   50, BIPEDAL_TAIL, GREEN  ; TREEKO
 	body_data   9,  216, BIPEDAL_TAIL, GREEN  ; GROVYLE
 	body_data  17,  522, BIPEDAL_TAIL, GREEN  ; SCEPTILE
+	body_data   0,    0, HEAD,         RED    ; EGG
+	body_data   0,    0, HEAD,         RED    ; $100
+	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
+	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
+	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM
 	body_data   9,   44, HEAD,         PURPLE ; MISMAGIUS
 	body_data   9,  273, WINGS,        BLACK  ; HONCHKROW
 	body_data   5,  150, HEAD_LEGS,    BROWN  ; BONSLY

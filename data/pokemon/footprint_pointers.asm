@@ -251,15 +251,15 @@ FootprintPointers::
 	dw LugiaFootprint
 	dw HoOhFootprint
 	dw CelebiFootprint
-	dw AzurillFootprint
-	dw WynautFootprint
-	dw AmbipomFootprint
-	dw EggFootprint
-	dw EggFootprint ; $100
 	; Hoenn
 	dw TreekoFootprint
 	dw GrovyleFootprint
 	dw SceptileFootprint
+	dw EggFootprint
+	dw EggFootprint ; $100
+	dw AzurillFootprint
+	dw WynautFootprint
+	dw AmbipomFootprint
 	dw MismagiusFootprint
 	dw HonchkrowFootprint
 	dw BonslyFootprint

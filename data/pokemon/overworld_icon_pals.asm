@@ -255,14 +255,15 @@ OverworldMonIconColors::
 	iconpal BLUE, RED ; LUGIA
 	iconpal RED, GREEN ; HO_OH
 	iconpal GREEN, RED ; CELEBI
-	iconpal BLUE, GREEN ; AZURILL
-	iconpal AZURE, PURPLE ; WYNAUT
-	iconpal PURPLE, RED ; AMBIPOM
-	iconpal RED, BLUE ; EGG
-	iconpal RED, BLUE ; $100
+	; Hoenn mons
 	iconpal TEAL, GREEN ; TREEKO
 	iconpal TEAL, GREEN ; GROVYLE
 	iconpal TEAL, GREEN ; SCEPTILE
+	iconpal RED, BLUE ; EGG
+	iconpal RED, BLUE ; $100
+	iconpal BLUE, GREEN ; AZURILL
+	iconpal AZURE, PURPLE ; WYNAUT
+	iconpal PURPLE, RED ; AMBIPOM
 	iconpal PURPLE, BROWN ; MISMAGIUS
 	iconpal BLUE, PURPLE ; HONCHKROW
 	iconpal GREEN, RED ; BONSLY

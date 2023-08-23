@@ -7,7 +7,7 @@
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F12_5, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 
-	abilities_for TREEKO, OVERGROW, CHLOROPHYLL, EFFECT_SPORE
+	abilities_for SCEPTILE, OVERGROW, OVERGROW, UNBURDEN
 	db GROWTH_MEDIUM_SLOW ; growth rate
 	dn EGG_PLANT, EGG_PLANT ; egg groups
 

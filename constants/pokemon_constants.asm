@@ -275,16 +275,15 @@
 	const LUGIA      ; f9 249
 	const HO_OH      ; fa 250
 	const CELEBI     ; fb 251
+	;NUM_POKEMON EQU HOENN
+	const TREEKO     ; fc 252
+	const GROVYLE    ; fd 253
+	const SCEPTILE   ; fe 254
+	const EGG        ; ff
+	const_skip       ; 100 is unused
 	const AZURILL    ; fc
 	const WYNAUT     ; fd
 	const AMBIPOM    ; fe
-	const EGG        ; ff
-	const_skip       ; 100 is unused
-	;NUM_POKEMON EQU HOENN
-	const TREEKO     ; 101 252
-	const GROVYLE    ; 101 253
-	const SCEPTILE   ; 101 254
-	;NUM_POKEMON EQU SINNOH
 	const MISMAGIUS  ; 101
 	const HONCHKROW  ; 102
 	const BONSLY     ; 103

@@ -251,14 +251,14 @@ FramesPointers:
 	dw LugiaFrames
 	dw HoOhFrames
 	dw CelebiFrames
-	dw AzurillFrames
-	dw WynautFrames
-	dw AmbipomFrames
-	dw EggFrames
-	dw EggFrames ; $100
 	dw TreekoFrames
 	dw GrovyleFrames
 	dw SceptileFrames
+	dw EggFrames
+	dw EggFrames ; $100
+	dw AzurillFrames
+	dw WynautFrames
+	dw AmbipomFrames
 	dw MismagiusFrames
 	dw HonchkrowFrames
 	dw BonslyFrames

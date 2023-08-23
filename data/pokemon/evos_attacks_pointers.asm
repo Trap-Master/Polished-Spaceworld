@@ -255,15 +255,15 @@ EvosAttacksPointers::
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks
 	dw CelebiEvosAttacks
-	dw AzurillEvosAttacks
-	dw WynautEvosAttacks
-	dw AmbipomEvosAttacks
-	dw EggEvosAttacks
-	dw EggEvosAttacks ; $100
 	;Hoenn Pokemon
 	dw TreekoEvosAttacks
 	dw GrovyleEvosAttacks
 	dw SceptileEvosAttacks
+	dw EggEvosAttacks
+	dw EggEvosAttacks ; $100
+	dw AzurillEvosAttacks
+	dw WynautEvosAttacks
+	dw AmbipomEvosAttacks
 	dw MismagiusEvosAttacks
 	dw HonchkrowEvosAttacks
 	dw BonslyEvosAttacks
