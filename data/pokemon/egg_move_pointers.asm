@@ -257,6 +257,9 @@ EggMovePointers::
 	dw NoEggMoves             ; Sceptile
 	dw NoEggMoves             ; Egg
 	dw NoEggMoves             ; $100
+	dw NoEggMoves             ; Torchic
+	dw NoEggMoves             ; Combusken
+	dw NoEggMoves             ; Blaziken
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

@@ -261,6 +261,9 @@ EvosAttacksPointers::
 	dw SceptileEvosAttacks
 	dw EggEvosAttacks
 	dw EggEvosAttacks ; $100
+	dw TorchicEvosAttacks
+	dw CombuskenEvosAttacks
+	dw BlazikenEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

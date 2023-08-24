@@ -261,6 +261,9 @@ OverworldMonIconColors::
 	iconpal TEAL, GREEN ; SCEPTILE
 	iconpal RED, BLUE ; EGG
 	iconpal RED, BLUE ; $100
+	iconpal RED, RED ; TORCHIC
+	iconpal RED, RED ; COMBUSKEN
+	iconpal RED, RED ; BLAZIKEN
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

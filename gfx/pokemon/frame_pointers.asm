@@ -256,6 +256,9 @@ FramesPointers:
 	dw SceptileFrames
 	dw EggFrames
 	dw EggFrames ; $100
+	dw TorchicFrames
+	dw CombuskenFrames
+	dw BlazikenFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

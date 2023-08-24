@@ -261,6 +261,9 @@ MiniIconPointers:
 	mini_icon Sceptile
 	mini_icon Egg
 	mini_icon Egg ; $100
+	mini_icon Torchic
+	mini_icon Combusken
+	mini_icon Blaziken
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

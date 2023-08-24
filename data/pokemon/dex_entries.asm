@@ -2546,6 +2546,36 @@ SceptilePokedexEntry::
 	next "it cares for the"
 	next "trees.@"
 
+SECTION "TorchicPokedexEntry", ROMX
+TorchicPokedexEntry::
+	db "Chick@"
+	db   "A fire burns"
+	next "deep inside its"
+	next "belly. It spites"
+	page "fireballs way"
+	next "beyond its power"
+	next "at 1800F degress.@"
+
+SECTION "CombuskenPokedexEntry", ROMX
+CombuskenPokedexEntry::
+	db "Young Fowl@"
+	db   "It toughens its"
+	next "legs running up"
+	next "mountains. It can"
+	page "unleash ten kicks"
+	next "a second never gi-"
+	next "ving up the fight.@"
+
+SECTION "BlazikenPokedexEntry", ROMX
+BlazikenPokedexEntry::
+	db "Blaze@"
+	db   "It can easily"
+	next "jump a 30-story"
+	next "building. In"
+	page "battle the flames"
+	next "on its wrists burn"
+	next "intensely.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

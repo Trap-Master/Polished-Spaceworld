@@ -259,6 +259,9 @@ ValidPokemonLevels: ; for Wonder Trade
 	db 255, 255 ; Egg
 	db 255, 255 ; $100
 	db   1,  19 ; Azurill
+	db   1,  16 ; Torchic
+	db   16, 35 ; Combusken
+	db  36, 100 ; Blaziken
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

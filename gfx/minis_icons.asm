@@ -1297,6 +1297,21 @@ SceptileMini::     INCBIN "gfx/minis/sceptile.2bpp.lz"
 SceptileMiniMask:: INCBIN "gfx/minis/sceptile_mask.1bpp.lz"
 SceptileIcon::     INCBIN "gfx/icons/sceptile.2bpp.lz"
 
+SECTION "Torchic Mini Icon", ROMX
+TorchicMini::     INCBIN "gfx/minis/torchic.2bpp.lz"
+TorchicMiniMask:: INCBIN "gfx/minis/torchic_mask.1bpp.lz"
+TorchicIcon::     INCBIN "gfx/icons/torchic.2bpp.lz"
+
+SECTION "Combusken Mini Icon", ROMX
+CombuskenMini::     INCBIN "gfx/minis/combusken.2bpp.lz"
+CombuskenMiniMask:: INCBIN "gfx/minis/combusken_mask.1bpp.lz"
+CombuskenIcon::     INCBIN "gfx/icons/combusken.2bpp.lz"
+
+SECTION "Blaziken Mini Icon", ROMX
+BlazikenMini::     INCBIN "gfx/minis/blaziken.2bpp.lz"
+BlazikenMiniMask:: INCBIN "gfx/minis/blaziken_mask.1bpp.lz"
+BlazikenIcon::     INCBIN "gfx/icons/blaziken.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

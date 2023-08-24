@@ -257,6 +257,9 @@ AnimationPointers:
 	dw SceptileAnimation
 	dw EggAnimation
 	dw EggAnimation
+	dw TorchicAnimation
+	dw CombuskenAnimation
+	dw BlazikenAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

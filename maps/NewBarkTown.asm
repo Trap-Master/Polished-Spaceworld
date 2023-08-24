@@ -57,7 +57,7 @@ GivemndebugScript:
 	waitsfx
 	;buttonsound
 	setflag ENGINE_POKEDEX
-	givepoke TREEKO, NO_FORM, 5, ORAN_BERRY
+	givepoke TORCHIC, NO_FORM, 5, ORAN_BERRY
 	giveitem RARE_CANDY, 99
 	closetext
 	end

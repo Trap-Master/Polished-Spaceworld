@@ -264,6 +264,9 @@ PokemonBodyData:
 	body_data  17,  522, BIPEDAL_TAIL, GREEN  ; SCEPTILE
 	body_data   0,    0, HEAD,         RED    ; EGG
 	body_data   0,    0, HEAD,         RED    ; $100
+	body_data   4,   25, HEAD_BASE,    RED    ; TORCHIC
+	body_data   9,  195, BIPEDAL_TAIL, RED    ; COMBUSKEN
+	body_data  19,  520, BIPEDAL_TAIL, RED    ; BLAZIKEN
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

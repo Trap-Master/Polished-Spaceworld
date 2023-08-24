@@ -261,6 +261,9 @@ endc
 	db NO_MOVE      ; SCEPTILE
 	db NO_MOVE      ; EGG
 	db NO_MOVE      ; $100
+	db NO_MOVE      ; TORCHIC
+	db NO_MOVE      ; COMBUSKEN
+	db NO_MOVE      ; BLAZIKEN
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

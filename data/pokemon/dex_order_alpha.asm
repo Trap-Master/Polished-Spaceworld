@@ -20,6 +20,7 @@ AlphabeticalPokedexOrder:
 	dp BELLOSSOM
 	dp BELLSPROUT
 	dp BLASTOISE
+	dp BLAZIKEN
 	dp BLISSEY
 	dp BONSLY
 	dp BULBASAUR
@@ -37,6 +38,7 @@ AlphabeticalPokedexOrder:
 	dp CLEFFA
 	dp CLODSIRE
 	dp CLOYSTER
+	dp COMBUSKEN
 	dp CORSOLA
 	dp CROBAT
 	dp CROCONAW
@@ -262,6 +264,7 @@ AlphabeticalPokedexOrder:
 	dp TOGEKISS
 	dp TOGEPI
 	dp TOGETIC
+	dp TORCHIC
 	dp TOTODILE
 	dp TREEKO
 	dp TYPHLOSION

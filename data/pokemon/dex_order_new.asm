@@ -23,6 +23,9 @@ NewPokedexOrder:
 	dp TREEKO
 	dp GROVYLE
 	dp SCEPTILE
+	dp TORCHIC
+	dp COMBUSKEN
+	dp BLAZIKEN
 	dp PIDGEY
 	dp PIDGEOTTO
 	dp PIDGEOT

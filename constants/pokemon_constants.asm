@@ -281,6 +281,9 @@
 	const SCEPTILE   ; fe 254
 	const EGG        ; ff
 	const_skip       ; 100 is unused
+	const TORCHIC    ; 101 255
+	const COMBUSKEN  ; 102 256
+	const BLAZIKEN   ; 103 257
 	const AZURILL    ; fc
 	const WYNAUT     ; fd
 	const AMBIPOM    ; fe

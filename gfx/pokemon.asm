@@ -900,6 +900,18 @@ SECTION "Sceptile Pics", ROMX
 SceptileFrontpic: INCBIN "gfx/pokemon/sceptile/front.animated.2bpp.lz"
 SceptileBackpic:  INCBIN "gfx/pokemon/sceptile/back.2bpp.lz"
 
+SECTION "Torchic Pics", ROMX
+TorchicFrontpic: INCBIN "gfx/pokemon/torchic/front.animated.2bpp.lz"
+TorchicBackpic:  INCBIN "gfx/pokemon/torchic/back.2bpp.lz"
+
+SECTION "Combusken Pics", ROMX
+CombuskenFrontpic: INCBIN "gfx/pokemon/combusken/front.animated.2bpp.lz"
+CombuskenBackpic:  INCBIN "gfx/pokemon/combusken/back.2bpp.lz"
+
+SECTION "Blaziken Pics", ROMX
+BlazikenFrontpic: INCBIN "gfx/pokemon/blaziken/front.animated.2bpp.lz"
+BlazikenBackpic:  INCBIN "gfx/pokemon/blaziken/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

@@ -256,6 +256,9 @@ BitmasksPointers:
 	dw SceptileBitmasks
 	dw EggBitmasks
 	dw EggBitmasks ; $100
+	dw TorchicBitmasks
+	dw CombuskenBitmasks
+	dw BlazikenBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

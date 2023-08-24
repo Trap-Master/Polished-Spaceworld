@@ -256,6 +256,9 @@ AnimationExtraPointers:
 	dw SceptileAnimationExtra
 	dw EggAnimationExtra
 	dw EggAnimationExtra ; $100
+	dw TorchicAnimationExtra
+	dw CombuskenAnimationExtra
+	dw BlazikenAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

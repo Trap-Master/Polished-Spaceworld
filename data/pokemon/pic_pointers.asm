@@ -261,6 +261,9 @@ PokemonPicPointers::
 	pics Sceptile
 	dbas EggPic, EggPic
 	dbas EggPic, EggPic ; $100
+	pics Torchic
+	pics Combusken
+	pics Blaziken
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

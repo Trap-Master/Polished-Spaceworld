@@ -257,6 +257,9 @@ FootprintPointers::
 	dw SceptileFootprint
 	dw EggFootprint
 	dw EggFootprint ; $100
+	dw TorchicFootprint
+	dw CombuskenFootprint
+	dw BlazikenFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint
