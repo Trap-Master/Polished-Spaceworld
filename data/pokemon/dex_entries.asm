@@ -2576,6 +2576,36 @@ BlazikenPokedexEntry::
 	next "on its wrists burn"
 	next "intensely.@"
 
+SECTION "MudkipPokedexEntry", ROMX
+MudkipPokedexEntry::
+	db "Mud Fish@"
+	db   "Despite its size"
+	next "it can lift and"
+	next "crush boulders."
+	page "Its fin is also"
+	next "a radar that can"
+	next "detect water flow.@"
+
+SECTION "MarshtompPokedexEntry", ROMX
+MarshtompPokedexEntry::
+	db "Mud Fish@"
+	db   "Its sturdy legs"
+	next "give it sure foot"
+	next "ing, even in mud."
+	page "A film on its body"
+	next "allows it to live"
+	next "on land.@"
+
+SECTION "SwampertPokedexEntry", ROMX
+SwampertPokedexEntry::
+	db "Mud Fish@"
+	db   "It can predict"
+	next "storms with its"
+	next "fins and is strong"
+	page "enough to tug"
+	next "boats and crush"
+	next "boulders.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

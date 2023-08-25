@@ -261,6 +261,9 @@ PokedexDataPointerTable:
 	dba TorchicPokedexEntry
 	dba CombuskenPokedexEntry
 	dba BlazikenPokedexEntry
+	dba MudkipPokedexEntry
+	dba MarshtompPokedexEntry
+	dba SwampertPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

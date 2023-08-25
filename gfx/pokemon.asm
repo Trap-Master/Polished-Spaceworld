@@ -912,6 +912,18 @@ SECTION "Blaziken Pics", ROMX
 BlazikenFrontpic: INCBIN "gfx/pokemon/blaziken/front.animated.2bpp.lz"
 BlazikenBackpic:  INCBIN "gfx/pokemon/blaziken/back.2bpp.lz"
 
+SECTION "Mudkip Pics", ROMX
+MudkipFrontpic: INCBIN "gfx/pokemon/mudkip/front.animated.2bpp.lz"
+MudkipBackpic:  INCBIN "gfx/pokemon/mudkip/back.2bpp.lz"
+
+SECTION "Marshtomp Pics", ROMX
+MarshtompFrontpic: INCBIN "gfx/pokemon/marshtomp/front.animated.2bpp.lz"
+MarshtompBackpic:  INCBIN "gfx/pokemon/marshtomp/back.2bpp.lz"
+
+SECTION "Swampert Pics", ROMX
+SwampertFrontpic: INCBIN "gfx/pokemon/swampert/front.animated.2bpp.lz"
+SwampertBackpic:  INCBIN "gfx/pokemon/swampert/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

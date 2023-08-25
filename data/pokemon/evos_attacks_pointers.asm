@@ -264,6 +264,9 @@ EvosAttacksPointers::
 	dw TorchicEvosAttacks
 	dw CombuskenEvosAttacks
 	dw BlazikenEvosAttacks
+	dw MudkipEvosAttacks
+	dw MarshtompEvosAttacks
+	dw SwampertEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

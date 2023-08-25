@@ -267,6 +267,9 @@ PokemonBodyData:
 	body_data   4,   25, HEAD_BASE,    RED    ; TORCHIC
 	body_data   9,  195, BIPEDAL_TAIL, RED    ; COMBUSKEN
 	body_data  19,  520, BIPEDAL_TAIL, RED    ; BLAZIKEN
+	body_data   4,   76, QUADRUPED,    BLUE   ; MUDKIP
+	body_data   7,  280, BIPEDAL_TAIL, BLUE   ; MARSHTOMP
+	body_data  15,  819, BIPEDAL_TAIL, BLUE   ; SWAMPERT
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

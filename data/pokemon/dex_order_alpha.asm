@@ -152,6 +152,7 @@ AlphabeticalPokedexOrder:
 	dp MAREEP
 	dp MARILL
 	dp MAROWAK
+	dp MARSHTOMP
 	dp MEGANIUM
 	dp MEOWTH
 	dp METAPOD
@@ -164,6 +165,7 @@ AlphabeticalPokedexOrder:
 	dp MOLTRES
 	dp MR__MIME
 	dp MR__RIME
+	dp MUDKIP
 	dp MUK
 	dp MUNCHLAX
 	dp MURKROW
@@ -253,6 +255,7 @@ AlphabeticalPokedexOrder:
 	dp SUICUNE
 	dp SUNFLORA
 	dp SUNKERN
+	dp SWAMPERT
 	dp SWINUB
 	dp SYLVEON
 	dp TANGELA

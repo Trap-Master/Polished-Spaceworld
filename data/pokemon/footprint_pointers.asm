@@ -260,6 +260,9 @@ FootprintPointers::
 	dw TorchicFootprint
 	dw CombuskenFootprint
 	dw BlazikenFootprint
+	dw MudkipFootprint
+	dw MarshtompFootprint
+	dw SwampertFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

@@ -259,6 +259,9 @@ FramesPointers:
 	dw TorchicFrames
 	dw CombuskenFrames
 	dw BlazikenFrames
+	dw MudkipFrames
+	dw MarshtompFrames
+	dw SwampertFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

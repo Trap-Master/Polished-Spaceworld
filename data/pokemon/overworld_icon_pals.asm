@@ -264,6 +264,9 @@ OverworldMonIconColors::
 	iconpal RED, RED ; TORCHIC
 	iconpal RED, RED ; COMBUSKEN
 	iconpal RED, RED ; BLAZIKEN
+	iconpal BLUE, BLUE ; MUDKIP
+	iconpal BLUE, BLUE ; MARSHTOMP
+	iconpal BLUE, BLUE ; SWAMPERT
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

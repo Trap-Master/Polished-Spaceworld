@@ -1312,6 +1312,21 @@ BlazikenMini::     INCBIN "gfx/minis/blaziken.2bpp.lz"
 BlazikenMiniMask:: INCBIN "gfx/minis/blaziken_mask.1bpp.lz"
 BlazikenIcon::     INCBIN "gfx/icons/blaziken.2bpp.lz"
 
+SECTION "Mudkip Mini Icon", ROMX
+MudkipMini::     INCBIN "gfx/minis/mudkip.2bpp.lz"
+MudkipMiniMask:: INCBIN "gfx/minis/mudkip_mask.1bpp.lz"
+MudkipIcon::     INCBIN "gfx/icons/mudkip.2bpp.lz"
+
+SECTION "Marshtomp Mini Icon", ROMX
+MarshtompMini::     INCBIN "gfx/minis/marshtomp.2bpp.lz"
+MarshtompMiniMask:: INCBIN "gfx/minis/marshtomp_mask.1bpp.lz"
+MarshtompIcon::     INCBIN "gfx/icons/marshtomp.2bpp.lz"
+
+SECTION "Swampert Mini Icon", ROMX
+SwampertMini::     INCBIN "gfx/minis/swampert.2bpp.lz"
+SwampertMiniMask:: INCBIN "gfx/minis/swampert_mask.1bpp.lz"
+SwampertIcon::     INCBIN "gfx/icons/swampert.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

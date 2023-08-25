@@ -262,6 +262,9 @@ ValidPokemonLevels: ; for Wonder Trade
 	db   1,  16 ; Torchic
 	db   16, 35 ; Combusken
 	db  36, 100 ; Blaziken
+	db   1,  15 ; Mudkip
+	db  16,  35 ; Marshtomp
+	db  36, 100 ; Swampert
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

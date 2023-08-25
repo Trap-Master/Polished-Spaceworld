@@ -26,6 +26,9 @@ NewPokedexOrder:
 	dp TORCHIC
 	dp COMBUSKEN
 	dp BLAZIKEN
+	dp MUDKIP
+	dp MARSHTOMP
+	dp SWAMPERT
 	dp PIDGEY
 	dp PIDGEOTTO
 	dp PIDGEOT

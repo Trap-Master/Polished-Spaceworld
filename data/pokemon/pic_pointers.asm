@@ -264,6 +264,9 @@ PokemonPicPointers::
 	pics Torchic
 	pics Combusken
 	pics Blaziken
+	pics Mudkip
+	pics Marshtomp
+	pics Swampert
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

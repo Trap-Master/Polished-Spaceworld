@@ -264,6 +264,9 @@ MiniIconPointers:
 	mini_icon Torchic
 	mini_icon Combusken
 	mini_icon Blaziken
+	mini_icon Mudkip
+	mini_icon Marshtomp
+	mini_icon Swampert
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

@@ -259,6 +259,9 @@ AnimationExtraPointers:
 	dw TorchicAnimationExtra
 	dw CombuskenAnimationExtra
 	dw BlazikenAnimationExtra
+	dw MudkipAnimationExtra
+	dw MarshtompAnimationExtra
+	dw SwampertAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

@@ -284,11 +284,15 @@
 	const TORCHIC    ; 101 255
 	const COMBUSKEN  ; 102 256
 	const BLAZIKEN   ; 103 257
-	const AZURILL    ; fc
-	const WYNAUT     ; fd
-	const AMBIPOM    ; fe
-	const MISMAGIUS  ; 101
-	const HONCHKROW  ; 102
+	const MUDKIP     ; 104 258
+	const MARSHTOMP  ; 105 259
+	const SWAMPERT   ; 106 260
+	const AZURILL    ; 12A 298
+	const WYNAUT     ; 168 360
+	;NUM_POKEMON EQU SINNOH
+	const AMBIPOM    ; 1A8 424
+	const MISMAGIUS  ; 1AD 429
+	const HONCHKROW  ; 1AE 430
 	const BONSLY     ; 103
 	const MIME_JR_   ; 104
 	const HAPPINY    ; 105

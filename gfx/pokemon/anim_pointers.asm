@@ -260,6 +260,9 @@ AnimationPointers:
 	dw TorchicAnimation
 	dw CombuskenAnimation
 	dw BlazikenAnimation
+	dw MudkipAnimation
+	dw MarshtompAnimation
+	dw SwampertAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

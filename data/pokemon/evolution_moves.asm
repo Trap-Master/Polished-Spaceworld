@@ -264,6 +264,9 @@ endc
 	db NO_MOVE      ; TORCHIC
 	db NO_MOVE      ; COMBUSKEN
 	db NO_MOVE      ; BLAZIKEN
+	db NO_MOVE      ; MUDKIP
+	db NO_MOVE      ; MARSHTOMP
+	db NO_MOVE      ; SWAMPERT
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM
