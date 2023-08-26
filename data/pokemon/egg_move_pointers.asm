@@ -263,6 +263,8 @@ EggMovePointers::
 	dw NoEggMoves             ; Mudkip
 	dw NoEggMoves             ; Marshtomp
 	dw NoEggMoves             ; Swampert
+	dw NoEggMoves             ; Poochyena
+	dw NoEggMoves             ; Mightyena
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

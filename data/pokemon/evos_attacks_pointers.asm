@@ -267,6 +267,8 @@ EvosAttacksPointers::
 	dw MudkipEvosAttacks
 	dw MarshtompEvosAttacks
 	dw SwampertEvosAttacks
+	dw PoochyenaEvosAttacks
+	dw MightyenaEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

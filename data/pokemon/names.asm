@@ -264,6 +264,8 @@ PokemonNames::
 	rawchar "Mudkip@@@@"
 	rawchar "Marshtomp@"
 	rawchar "Swampert@@"
+	rawchar "Poochyena@"
+	rawchar "Mightyena@"
 	rawchar "Azurill@@@"
 	rawchar "Wynaut@@@@"
 	rawchar "Ambipom@@@"

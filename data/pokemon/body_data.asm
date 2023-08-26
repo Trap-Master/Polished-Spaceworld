@@ -270,6 +270,8 @@ PokemonBodyData:
 	body_data   4,   76, QUADRUPED,    BLUE   ; MUDKIP
 	body_data   7,  280, BIPEDAL_TAIL, BLUE   ; MARSHTOMP
 	body_data  15,  819, BIPEDAL_TAIL, BLUE   ; SWAMPERT
+	body_data   5,  136, QUADRUPED,    BLACK  ; POOCHYENA
+	body_data  10,  370, QUADRUPED,    BLACK  ; MIGHTYENA
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

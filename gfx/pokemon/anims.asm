@@ -214,6 +214,8 @@ BlazikenAnimation:   INCLUDE "gfx/pokemon/blaziken/anim.asm"
 MudkipAnimation:     INCLUDE "gfx/pokemon/mudkip/anim.asm"
 MarshtompAnimation:  INCLUDE "gfx/pokemon/marshtomp/anim.asm"
 SwampertAnimation:   INCLUDE "gfx/pokemon/swampert/anim.asm"
+PoochyenaAnimation:  INCLUDE "gfx/pokemon/poochyena/anim.asm"
+MightyenaAnimation:  INCLUDE "gfx/pokemon/mightyena/anim.asm"
 AzurillAnimation:    INCLUDE "gfx/pokemon/azurill/anim.asm"
 WynautAnimation:     INCLUDE "gfx/pokemon/wynaut/anim.asm"
 ;Sinnoh Pokemon

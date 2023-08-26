@@ -263,6 +263,8 @@ FootprintPointers::
 	dw MudkipFootprint
 	dw MarshtompFootprint
 	dw SwampertFootprint
+	dw PoochyenaFootprint
+	dw MightyenaFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

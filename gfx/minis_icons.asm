@@ -1327,6 +1327,16 @@ SwampertMini::     INCBIN "gfx/minis/swampert.2bpp.lz"
 SwampertMiniMask:: INCBIN "gfx/minis/swampert_mask.1bpp.lz"
 SwampertIcon::     INCBIN "gfx/icons/swampert.2bpp.lz"
 
+SECTION "Poochyena Mini Icon", ROMX
+PoochyenaMini::     INCBIN "gfx/minis/poochyena.2bpp.lz"
+PoochyenaMiniMask:: INCBIN "gfx/minis/poochyena_mask.1bpp.lz"
+PoochyenaIcon::     INCBIN "gfx/icons/poochyena.2bpp.lz"
+
+SECTION "Mightyena Mini Icon", ROMX
+MightyenaMini::     INCBIN "gfx/minis/mightyena.2bpp.lz"
+MightyenaMiniMask:: INCBIN "gfx/minis/mightyena_mask.1bpp.lz"
+MightyenaIcon::     INCBIN "gfx/icons/mightyena.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

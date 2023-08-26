@@ -263,6 +263,8 @@ AnimationPointers:
 	dw MudkipAnimation
 	dw MarshtompAnimation
 	dw SwampertAnimation
+	dw PoochyenaAnimation
+	dw MightyenaAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

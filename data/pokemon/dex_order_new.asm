@@ -40,6 +40,8 @@ NewPokedexOrder:
 	dp RATICATE
 	dp SENTRET
 	dp FURRET
+	dp POOCHYENA
+	dp MIGHTYENA
 	dp PICHU
 	dp PIKACHU
 	dp RAICHU

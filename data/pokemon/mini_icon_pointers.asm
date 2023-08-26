@@ -267,6 +267,8 @@ MiniIconPointers:
 	mini_icon Mudkip
 	mini_icon Marshtomp
 	mini_icon Swampert
+	mini_icon Poochyena
+	mini_icon Mightyena
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

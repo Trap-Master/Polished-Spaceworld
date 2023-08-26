@@ -924,6 +924,14 @@ SECTION "Swampert Pics", ROMX
 SwampertFrontpic: INCBIN "gfx/pokemon/swampert/front.animated.2bpp.lz"
 SwampertBackpic:  INCBIN "gfx/pokemon/swampert/back.2bpp.lz"
 
+SECTION "Poochyena Pics", ROMX
+PoochyenaFrontpic: INCBIN "gfx/pokemon/poochyena/front.animated.2bpp.lz"
+PoochyenaBackpic:  INCBIN "gfx/pokemon/poochyena/back.2bpp.lz"
+
+SECTION "Mightyena Pics", ROMX
+MightyenaFrontpic: INCBIN "gfx/pokemon/mightyena/front.animated.2bpp.lz"
+MightyenaBackpic:  INCBIN "gfx/pokemon/mightyena/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

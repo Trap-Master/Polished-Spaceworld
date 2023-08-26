@@ -262,6 +262,8 @@ FramesPointers:
 	dw MudkipFrames
 	dw MarshtompFrames
 	dw SwampertFrames
+	dw PoochyenaFrames
+	dw MightyenaFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

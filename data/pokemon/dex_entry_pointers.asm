@@ -264,6 +264,8 @@ PokedexDataPointerTable:
 	dba MudkipPokedexEntry
 	dba MarshtompPokedexEntry
 	dba SwampertPokedexEntry
+	dba PoochyenaPokedexEntry
+	dba MightyenaPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

@@ -287,6 +287,8 @@
 	const MUDKIP     ; 104 258
 	const MARSHTOMP  ; 105 259
 	const SWAMPERT   ; 106 260
+	const POOCHYENA  ; 107 261
+	const MIGHTYENA  ; 108 262
 	const AZURILL    ; 12A 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

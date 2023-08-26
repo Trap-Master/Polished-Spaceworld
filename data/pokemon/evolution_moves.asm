@@ -267,6 +267,8 @@ endc
 	db NO_MOVE      ; MUDKIP
 	db NO_MOVE      ; MARSHTOMP
 	db NO_MOVE      ; SWAMPERT
+	db NO_MOVE      ; POOCHYENA
+	db NO_MOVE      ; MIGHTYENA
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

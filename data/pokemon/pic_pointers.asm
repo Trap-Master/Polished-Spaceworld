@@ -267,6 +267,8 @@ PokemonPicPointers::
 	pics Mudkip
 	pics Marshtomp
 	pics Swampert
+	pics Poochyena
+	pics Mightyena
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

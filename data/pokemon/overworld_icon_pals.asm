@@ -267,6 +267,8 @@ OverworldMonIconColors::
 	iconpal BLUE, BLUE ; MUDKIP
 	iconpal BLUE, BLUE ; MARSHTOMP
 	iconpal BLUE, BLUE ; SWAMPERT
+	iconpal GRAY, GRAY ; POOCHYENA
+	iconpal GRAY, GRAY ; MIGHTYENA
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

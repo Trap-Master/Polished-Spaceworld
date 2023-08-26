@@ -2606,6 +2606,26 @@ SwampertPokedexEntry::
 	next "boats and crush"
 	next "boulders.@"
 
+SECTION "PoochyenaPokedexEntry", ROMX
+PoochyenaPokedexEntry::
+	db "Bite@"
+	db   "Its first instinct"
+	next "is to bite. Often"
+	next "chasing the prey"
+	page "till exhaustion."
+	next "It flees if prey"
+	next "fights back.@"
+
+SECTION "MightyenaPokedexEntry", ROMX
+MightyenaPokedexEntry::
+	db "Bite@"
+	db   "It has strong pack"
+	next "instincts. It only"
+	next "obeys skilled"
+	page "trainers. They"
+	next "never defy a"
+	next "leader's orders.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

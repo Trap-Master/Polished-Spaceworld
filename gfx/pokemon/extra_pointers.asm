@@ -262,6 +262,8 @@ AnimationExtraPointers:
 	dw MudkipAnimationExtra
 	dw MarshtompAnimationExtra
 	dw SwampertAnimationExtra
+	dw PoochyenaAnimationExtra
+	dw MightyenaAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra
