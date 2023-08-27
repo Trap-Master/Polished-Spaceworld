@@ -42,6 +42,8 @@ NewPokedexOrder:
 	dp FURRET
 	dp POOCHYENA
 	dp MIGHTYENA
+	dp ZIGZAGOON
+	dp LINOONE
 	dp PICHU
 	dp PIKACHU
 	dp RAICHU
@@ -55,6 +57,7 @@ NewPokedexOrder:
 	dp LEDIAN
 	dp SPINARAK
 	dp ARIADOS
+	dp WURMPLE
 	dp GEODUDE
 	dp GRAVELER
 	dp GOLEM

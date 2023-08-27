@@ -265,6 +265,9 @@ EggMovePointers::
 	dw NoEggMoves             ; Swampert
 	dw NoEggMoves             ; Poochyena
 	dw NoEggMoves             ; Mightyena
+	dw NoEggMoves             ; Zigzagoon
+	dw NoEggMoves             ; Linoone
+	dw NoEggMoves             ; Wurmple
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

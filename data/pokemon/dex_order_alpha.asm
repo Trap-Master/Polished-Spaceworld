@@ -133,6 +133,7 @@ AlphabeticalPokedexOrder:
 	dp LEDYBA
 	dp LICKILICKY
 	dp LICKITUNG
+	dp LINOONE
 	dp LUGIA
 	dp MACHAMP
 	dp MACHOKE
@@ -295,11 +296,13 @@ AlphabeticalPokedexOrder:
 	dp WIGGLYTUFF
 	dp WOBBUFFET
 	dp WOOPER
+	dp WURMPLE
 	dp WYNAUT
 	dp WYRDEER
 	dp XATU
 	dp YANMA
 	dp YANMEGA
 	dp ZAPDOS
+	dp ZIGZAGOON
 	dp ZUBAT
 	assert_table_length NUM_POKEMON

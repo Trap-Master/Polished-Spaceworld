@@ -264,6 +264,9 @@ BitmasksPointers:
 	dw SwampertBitmasks
 	dw PoochyenaBitmasks
 	dw MightyenaBitmasks
+	dw ZigzagoonBitmasks
+	dw LinooneBitmasks
+	dw WurmpleBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

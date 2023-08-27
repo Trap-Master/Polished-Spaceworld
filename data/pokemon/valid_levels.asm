@@ -267,6 +267,9 @@ ValidPokemonLevels: ; for Wonder Trade
 	db  36, 100 ; Swampert
 	db   1,  17 ; Poochyena
 	db  18, 100 ; Mightyena
+	db   1,  19 ; Zigzagoon
+	db  20, 100 ; Linoone
+	db   1,   6 ; Wurmple
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

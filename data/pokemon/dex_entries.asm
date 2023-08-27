@@ -2626,6 +2626,36 @@ MightyenaPokedexEntry::
 	next "never defy a"
 	next "leader's orders.@"
 
+SECTION "ZigzagoonPokedexEntry", ROMX
+ZigzagoonPokedexEntry::
+	db "Tiny Raccoon@"
+	db   "Always curious, it"
+	next "moves in a zig-zag"
+	next "pattern picking"
+	page "items off the"
+	next "ground. It marks "
+	next "trees with its fur@"
+
+SECTION "LinoonePokedexEntry", ROMX
+LinoonePokedexEntry::
+	db "Rushing@"
+	db   "It can go from 0"
+	next "to 60MPH but can"
+	next "only run in a"
+	page "straight line."
+	next "Gentle curves can"
+	next "mess with it.@"
+
+SECTION "WurmplePokedexEntry", ROMX
+WurmplePokedexEntry::
+	db "Worm@"
+	db   "Bird Pokemon"
+	next "target it as prey."
+	next "It uses its"
+	page "poisonous back"
+	next "spikes to defend"
+	next "itself.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

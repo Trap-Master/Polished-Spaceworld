@@ -269,6 +269,9 @@ MiniIconPointers:
 	mini_icon Swampert
 	mini_icon Poochyena
 	mini_icon Mightyena
+	mini_icon Zigzagoon
+	mini_icon Linoone
+	mini_icon Wurmple
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

@@ -272,6 +272,9 @@ PokemonBodyData:
 	body_data  15,  819, BIPEDAL_TAIL, BLUE   ; SWAMPERT
 	body_data   5,  136, QUADRUPED,    BLACK  ; POOCHYENA
 	body_data  10,  370, QUADRUPED,    BLACK  ; MIGHTYENA
+	body_data   4,  175, QUADRUPED,    BROWN  ; ZIGZAGOON
+	body_data   5,  325, QUADRUPED,    BROWN  ; LINOONE
+	body_data   3,   36, INSECTOID,    RED    ; WURMPLE
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

@@ -265,6 +265,9 @@ FootprintPointers::
 	dw SwampertFootprint
 	dw PoochyenaFootprint
 	dw MightyenaFootprint
+	dw ZigzagoonFootprint
+	dw LinooneFootprint
+	dw WurmpleFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

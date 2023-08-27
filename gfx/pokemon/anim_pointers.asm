@@ -265,6 +265,9 @@ AnimationPointers:
 	dw SwampertAnimation
 	dw PoochyenaAnimation
 	dw MightyenaAnimation
+	dw ZigzagoonAnimation
+	dw LinooneAnimation
+	dw WurmpleAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

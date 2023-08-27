@@ -269,6 +269,9 @@ PokemonPicPointers::
 	pics Swampert
 	pics Poochyena
 	pics Mightyena
+	pics Zigzagoon
+	pics Linoone
+	pics Wurmple
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

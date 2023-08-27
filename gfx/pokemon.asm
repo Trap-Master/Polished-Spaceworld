@@ -932,6 +932,18 @@ SECTION "Mightyena Pics", ROMX
 MightyenaFrontpic: INCBIN "gfx/pokemon/mightyena/front.animated.2bpp.lz"
 MightyenaBackpic:  INCBIN "gfx/pokemon/mightyena/back.2bpp.lz"
 
+SECTION "Zigzagoon Pics", ROMX
+ZigzagoonFrontpic: INCBIN "gfx/pokemon/zigzagoon/front.animated.2bpp.lz"
+ZigzagoonBackpic:  INCBIN "gfx/pokemon/zigzagoon/back.2bpp.lz"
+
+SECTION "Linoone Pics", ROMX
+LinooneFrontpic: INCBIN "gfx/pokemon/linoone/front.animated.2bpp.lz"
+LinooneBackpic:  INCBIN "gfx/pokemon/linoone/back.2bpp.lz"
+
+SECTION "Wurmple Pics", ROMX
+WurmpleFrontpic: INCBIN "gfx/pokemon/wurmple/front.animated.2bpp.lz"
+WurmpleBackpic:  INCBIN "gfx/pokemon/wurmple/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

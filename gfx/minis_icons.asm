@@ -1337,6 +1337,21 @@ MightyenaMini::     INCBIN "gfx/minis/mightyena.2bpp.lz"
 MightyenaMiniMask:: INCBIN "gfx/minis/mightyena_mask.1bpp.lz"
 MightyenaIcon::     INCBIN "gfx/icons/mightyena.2bpp.lz"
 
+SECTION "Zigzagoon Mini Icon", ROMX
+ZigzagoonMini::     INCBIN "gfx/minis/zigzagoon.2bpp.lz"
+ZigzagoonMiniMask:: INCBIN "gfx/minis/zigzagoon_mask.1bpp.lz"
+ZigzagoonIcon::     INCBIN "gfx/icons/zigzagoon.2bpp.lz"
+
+SECTION "Linoone Mini Icon", ROMX
+LinooneMini::     INCBIN "gfx/minis/linoone.2bpp.lz"
+LinooneMiniMask:: INCBIN "gfx/minis/linoone_mask.1bpp.lz"
+LinooneIcon::     INCBIN "gfx/icons/linoone.2bpp.lz"
+
+SECTION "Wurmple Mini Icon", ROMX
+WurmpleMini::     INCBIN "gfx/minis/wurmple.2bpp.lz"
+WurmpleMiniMask:: INCBIN "gfx/minis/wurmple_mask.1bpp.lz"
+WurmpleIcon::     INCBIN "gfx/icons/wurmple.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

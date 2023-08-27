@@ -269,6 +269,9 @@ OverworldMonIconColors::
 	iconpal BLUE, BLUE ; SWAMPERT
 	iconpal GRAY, GRAY ; POOCHYENA
 	iconpal GRAY, GRAY ; MIGHTYENA
+	iconpal BROWN, BROWN ; ZIGZAGOON
+	iconpal BROWN, BROWN ; LINOONE
+	iconpal RED, RED ; WURMPLE
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

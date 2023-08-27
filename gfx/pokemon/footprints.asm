@@ -91,6 +91,9 @@ MarshtompFootprint::
 SwampertFootprint::
 PoochyenaFootprint::
 MightyenaFootprint::
+ZigzagoonFootprint::
+LinooneFootprint::
+WurmpleFootprint::
 ZubatFootprint:: INCBIN "gfx/footprints/blank.1bpp.lz"
 
 BulbasaurFootprint:: INCBIN "gfx/footprints/bulbasaur.1bpp.lz"

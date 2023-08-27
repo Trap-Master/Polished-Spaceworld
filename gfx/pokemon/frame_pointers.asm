@@ -264,6 +264,9 @@ FramesPointers:
 	dw SwampertFrames
 	dw PoochyenaFrames
 	dw MightyenaFrames
+	dw ZigzagoonFrames
+	dw LinooneFrames
+	dw WurmpleFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

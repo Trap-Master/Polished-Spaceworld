@@ -266,6 +266,9 @@ PokedexDataPointerTable:
 	dba SwampertPokedexEntry
 	dba PoochyenaPokedexEntry
 	dba MightyenaPokedexEntry
+	dba ZigzagoonPokedexEntry
+	dba LinoonePokedexEntry
+	dba WurmplePokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

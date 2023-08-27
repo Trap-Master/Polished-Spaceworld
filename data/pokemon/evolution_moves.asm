@@ -269,6 +269,9 @@ endc
 	db NO_MOVE      ; SWAMPERT
 	db NO_MOVE      ; POOCHYENA
 	db NO_MOVE      ; MIGHTYENA
+	db NO_MOVE      ; ZIGZAGOON
+	db NO_MOVE      ; LINOONE
+	db NO_MOVE      ; WURMPLE
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM
