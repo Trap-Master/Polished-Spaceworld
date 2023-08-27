@@ -272,6 +272,10 @@ EvosAttacksPointers::
 	dw ZigzagoonEvosAttacks
 	dw LinooneEvosAttacks
 	dw WurmpleEvosAttacks
+	dw SilcoonEvosAttacks
+	dw BeautiflyEvosAttacks
+	dw CascoonEvosAttacks
+	dw DustoxEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

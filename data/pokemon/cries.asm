@@ -274,6 +274,10 @@ PokemonCries::
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Zigzagoon
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Linoone
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Wurmple
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Silcoon
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Beautifly
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Cascoon
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Dustox
 	mon_cry CRY_MARILL,      $11b,  $120 ; Azurill
 	mon_cry CRY_AMPHAROS,    $27b,  $144 ; Wynaut
 	mon_cry CRY_TYROGUE,    -$051,  $0e8 ; Ambipom

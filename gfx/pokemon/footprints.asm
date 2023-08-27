@@ -94,6 +94,10 @@ MightyenaFootprint::
 ZigzagoonFootprint::
 LinooneFootprint::
 WurmpleFootprint::
+SilcoonFootprint::
+BeautiflyFootprint::
+CascoonFootprint::
+DustoxFootprint::
 ZubatFootprint:: INCBIN "gfx/footprints/blank.1bpp.lz"
 
 BulbasaurFootprint:: INCBIN "gfx/footprints/bulbasaur.1bpp.lz"

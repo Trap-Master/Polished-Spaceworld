@@ -2656,6 +2656,46 @@ WurmplePokedexEntry::
 	next "spikes to defend"
 	next "itself.@"
 
+SECTION "SilcoonPokedexEntry", ROMX
+SilcoonPokedexEntry::
+	db "Cocoon@"
+	db   "All it does is awa"
+	next "it evolution. It te"
+	next "thers itself to tr"
+	page "ees using silk and"
+	next "drinks dew that fo"
+	next "rms on its body.@"
+
+SECTION "BeautiflyPokedexEntry", ROMX
+BeautiflyPokedexEntry::
+	db "Butterfly@"
+	db   "Despite its"
+	next "appearance its"
+	next "savage drinking"
+	page "bodily fluids."
+	next "of foes while"
+	next "collecting pollen.@"
+
+SECTION "CascoonPokedexEntry", ROMX
+CascoonPokedexEntry::
+	db "Cocoon@"
+	db   "It endures attacks"
+	next "in its cocoon"
+	next "stage. Never"
+	page "forgetting who"
+	next "wronged it,"
+	next "seeking payback.@"
+
+SECTION "DustoxPokedexEntry", ROMX
+DustoxPokedexEntry::
+	db "Poison Moth@"
+	db   "Its wings have a"
+	next "poison dust that"
+	next "makes even the"
+	page "strongest sick."
+	next "They are attracted"
+	next "to city lights.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

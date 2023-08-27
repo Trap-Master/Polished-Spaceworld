@@ -58,6 +58,10 @@ NewPokedexOrder:
 	dp SPINARAK
 	dp ARIADOS
 	dp WURMPLE
+	dp SILCOON
+	dp BEAUTIFLY
+	dp CASCOON
+	dp DUSTOX
 	dp GEODUDE
 	dp GRAVELER
 	dp GOLEM

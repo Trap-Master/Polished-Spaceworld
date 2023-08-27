@@ -267,6 +267,10 @@ AnimationExtraPointers:
 	dw ZigzagoonAnimationExtra
 	dw LinooneAnimationExtra
 	dw WurmpleAnimationExtra
+	dw SilcoonAnimationExtra
+	dw BeautiflyAnimationExtra
+	dw CascoonAnimationExtra
+	dw DustoxAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

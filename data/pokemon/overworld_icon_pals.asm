@@ -272,6 +272,10 @@ OverworldMonIconColors::
 	iconpal BROWN, BROWN ; ZIGZAGOON
 	iconpal BROWN, BROWN ; LINOONE
 	iconpal RED, RED ; WURMPLE
+	iconpal GRAY, GRAY ; SILCOON
+	iconpal RED, RED ; BEAUTIFLY
+	iconpal PURPLE, PURPLE ; CASCOON
+	iconpal PURPLE, PURPLE ; DUSTOX
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

@@ -269,6 +269,10 @@ PokedexDataPointerTable:
 	dba ZigzagoonPokedexEntry
 	dba LinoonePokedexEntry
 	dba WurmplePokedexEntry
+	dba SilcoonPokedexEntry
+	dba BeautiflyPokedexEntry
+	dba CascoonPokedexEntry
+	dba DustoxPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

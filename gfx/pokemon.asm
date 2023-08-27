@@ -944,6 +944,23 @@ SECTION "Wurmple Pics", ROMX
 WurmpleFrontpic: INCBIN "gfx/pokemon/wurmple/front.animated.2bpp.lz"
 WurmpleBackpic:  INCBIN "gfx/pokemon/wurmple/back.2bpp.lz"
 
+SECTION "Silcoon Pics", ROMX
+SilcoonFrontpic: INCBIN "gfx/pokemon/silcoon/front.animated.2bpp.lz"
+SilcoonBackpic:  INCBIN "gfx/pokemon/silcoon/back.2bpp.lz"
+
+SECTION "Beautifly Pics", ROMX
+BeautiflyFrontpic: INCBIN "gfx/pokemon/beautifly/front.animated.2bpp.lz"
+BeautiflyBackpic:  INCBIN "gfx/pokemon/beautifly/back.2bpp.lz"
+
+SECTION "Cascoon Pics", ROMX
+CascoonFrontpic: INCBIN "gfx/pokemon/cascoon/front.animated.2bpp.lz"
+CascoonBackpic:  INCBIN "gfx/pokemon/cascoon/back.2bpp.lz"
+
+
+SECTION "Dustox Pics", ROMX
+DustoxFrontpic: INCBIN "gfx/pokemon/dustox/front.animated.2bpp.lz"
+DustoxBackpic:  INCBIN "gfx/pokemon/dustox/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

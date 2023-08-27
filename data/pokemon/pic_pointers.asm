@@ -272,6 +272,10 @@ PokemonPicPointers::
 	pics Zigzagoon
 	pics Linoone
 	pics Wurmple
+	pics Silcoon
+	pics Beautifly
+	pics Cascoon
+	pics Dustox
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

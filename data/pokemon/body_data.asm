@@ -275,6 +275,10 @@ PokemonBodyData:
 	body_data   4,  175, QUADRUPED,    BROWN  ; ZIGZAGOON
 	body_data   5,  325, QUADRUPED,    BROWN  ; LINOONE
 	body_data   3,   36, INSECTOID,    RED    ; WURMPLE
+	body_data   6,  100, HEAD,         WHITE  ; SILCOON
+	body_data  10,  284, MULTIWINGS,   YELLOW ; BEAUTIFLY
+	body_data   7,  115, HEAD,         PURPLE ; CASCOON
+	body_data  12,  316, MULTIWINGS,   PURPLE ; DUSTOX
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

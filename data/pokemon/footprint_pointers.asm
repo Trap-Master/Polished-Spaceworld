@@ -268,6 +268,10 @@ FootprintPointers::
 	dw ZigzagoonFootprint
 	dw LinooneFootprint
 	dw WurmpleFootprint
+	dw SilcoonFootprint
+	dw BeautiflyFootprint
+	dw CascoonFootprint
+	dw DustoxFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

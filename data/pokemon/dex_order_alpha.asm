@@ -16,6 +16,7 @@ AlphabeticalPokedexOrder:
 	dp AZUMARILL
 	dp AZURILL
 	dp BAYLEEF
+	dp BEAUTIFLY
 	dp BEEDRILL
 	dp BELLOSSOM
 	dp BELLSPROUT
@@ -25,6 +26,7 @@ AlphabeticalPokedexOrder:
 	dp BONSLY
 	dp BULBASAUR
 	dp BUTTERFREE
+	dp CASCOON
 	dp CATERPIE
 	dp CELEBI
 	dp CHANSEY
@@ -59,6 +61,7 @@ AlphabeticalPokedexOrder:
 	dp DUDUNSPARCE
 	dp DUGTRIO
 	dp DUNSPARCE
+	dp DUSTOX
 	dp EEVEE
 	dp EKANS
 	dp ELECTABUZZ
@@ -234,6 +237,7 @@ AlphabeticalPokedexOrder:
 	dp SENTRET
 	dp SHELLDER
 	dp SHUCKLE
+	dp SILCOON
 	dp SIRFETCH_D
 	dp SKARMORY
 	dp SKIPLOOM

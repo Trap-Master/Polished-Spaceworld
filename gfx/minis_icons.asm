@@ -1352,6 +1352,26 @@ WurmpleMini::     INCBIN "gfx/minis/wurmple.2bpp.lz"
 WurmpleMiniMask:: INCBIN "gfx/minis/wurmple_mask.1bpp.lz"
 WurmpleIcon::     INCBIN "gfx/icons/wurmple.2bpp.lz"
 
+SECTION "Silcoon Mini Icon", ROMX
+SilcoonMini::     INCBIN "gfx/minis/silcoon.2bpp.lz"
+SilcoonMiniMask:: INCBIN "gfx/minis/silcoon_mask.1bpp.lz"
+SilcoonIcon::     INCBIN "gfx/icons/silcoon.2bpp.lz"
+
+SECTION "Beautifly Mini Icon", ROMX
+BeautiflyMini::     INCBIN "gfx/minis/beautifly.2bpp.lz"
+BeautiflyMiniMask:: INCBIN "gfx/minis/beautifly_mask.1bpp.lz"
+BeautiflyIcon::     INCBIN "gfx/icons/beautifly.2bpp.lz"
+
+SECTION "Cascoon Mini Icon", ROMX
+CascoonMini::     INCBIN "gfx/minis/cascoon.2bpp.lz"
+CascoonMiniMask:: INCBIN "gfx/minis/cascoon_mask.1bpp.lz"
+CascoonIcon::     INCBIN "gfx/icons/cascoon.2bpp.lz"
+
+SECTION "Dustox Mini Icon", ROMX
+DustoxMini::     INCBIN "gfx/minis/dustox.2bpp.lz"
+DustoxMiniMask:: INCBIN "gfx/minis/dustox_mask.1bpp.lz"
+DustoxIcon::     INCBIN "gfx/icons/dustox.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

@@ -292,6 +292,10 @@
 	const ZIGZAGOON  ; 109 263
 	const LINOONE    ; 10a 264
 	const WURMPLE    ; 10b 265
+	const SILCOON    ; 10c 266
+	const BEAUTIFLY  ; 10d 267
+	const CASCOON    ; 10e 268
+	const DUSTOX     ; 10f 269
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

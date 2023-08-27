@@ -272,6 +272,10 @@ endc
 	db NO_MOVE      ; ZIGZAGOON
 	db NO_MOVE      ; LINOONE
 	db NO_MOVE      ; WURMPLE
+	db NO_MOVE      ; SILCOON
+	db NO_MOVE      ; BEAUTIFLY
+	db NO_MOVE      ; CASCOON
+	db NO_MOVE      ; DUSTOX
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

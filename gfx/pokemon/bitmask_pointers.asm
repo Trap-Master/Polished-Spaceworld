@@ -267,6 +267,10 @@ BitmasksPointers:
 	dw ZigzagoonBitmasks
 	dw LinooneBitmasks
 	dw WurmpleBitmasks
+	dw SilcoonBitmasks
+	dw BeautiflyBitmasks
+	dw CascoonBitmasks
+	dw DustoxBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

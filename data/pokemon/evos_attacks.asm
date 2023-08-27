@@ -5873,8 +5873,14 @@ LinooneEvosAttacks:
 	db -1 ; no more level-up moves
 	
 WurmpleEvosAttacks:
-;	evo_data EVOLVE_LEVEL, 20, LINOONE
-;LinooneEvosAttacks:
+	evo_data EVOLVE_LEVEL, 7, SILCOON
+	evo_data EVOLVE_LEVEL, 7, CASCOON
+SilcoonEvosAttacks:
+	evo_data EVOLVE_LEVEL, 10, BEAUTIFLY
+CascoonEvosAttacks:
+	evo_data EVOLVE_LEVEL, 10, DUSTOX
+BeautiflyEvosAttacks:
+DustoxEvosAttacks:
 	db -1 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER ; Tail Whip → similar move

@@ -272,6 +272,10 @@ MiniIconPointers:
 	mini_icon Zigzagoon
 	mini_icon Linoone
 	mini_icon Wurmple
+	mini_icon Silcoon
+	mini_icon Beautifly
+	mini_icon Cascoon
+	mini_icon Dustox
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

@@ -270,6 +270,10 @@ ValidPokemonLevels: ; for Wonder Trade
 	db   1,  19 ; Zigzagoon
 	db  20, 100 ; Linoone
 	db   1,   6 ; Wurmple
+	db   7,   9 ; Silcoon
+	db  10, 100 ; Beautifly
+	db   7,   9 ; Cascoon
+	db  10, 100 ; Dustox
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

@@ -267,6 +267,10 @@ FramesPointers:
 	dw ZigzagoonFrames
 	dw LinooneFrames
 	dw WurmpleFrames
+	dw SilcoonFrames
+	dw BeautiflyFrames
+	dw CascoonFrames
+	dw DustoxFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames
