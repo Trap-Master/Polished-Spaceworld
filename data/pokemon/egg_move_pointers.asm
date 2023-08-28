@@ -272,6 +272,9 @@ EggMovePointers::
 	dw NoEggMoves             ; Beautifly
 	dw NoEggMoves             ; Cascoon
 	dw NoEggMoves             ; Dustox
+	dw NoEggMoves             ; Lotad
+	dw NoEggMoves             ; Lombre
+	dw NoEggMoves             ; Ludicolo
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

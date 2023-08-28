@@ -279,6 +279,9 @@ PokemonBodyData:
 	body_data  10,  284, MULTIWINGS,   YELLOW ; BEAUTIFLY
 	body_data   7,  115, HEAD,         PURPLE ; CASCOON
 	body_data  12,  316, MULTIWINGS,   PURPLE ; DUSTOX
+	body_data   5,   26, INSECTOID,    GREEN  ; LOTAD
+	body_data  12,  325, BIPEDAL,      GREEN  ; LOMBRE
+	body_data  15,  550, BIPEDAL,      GREEN  ; LUDICOLO
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

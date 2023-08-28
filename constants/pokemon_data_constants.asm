@@ -319,6 +319,8 @@ DEF NUM_HOF_TEAMS EQU 10
 	const EVOLVE_MOVE
 	const EVOLVE_CRIT ; only for Galarian Farfetch'd
 	const EVOLVE_PARTY ; only for Mantyke
+	;const EVOLVE_LEVEL_RAND_HIGH
+	;const EVOLVE_LEVEL_RAND_LOW
 ; multi_evo types for Lyra's info (used in data/pokemon/multi_evos.asm)
 	const EVOLVE_EGG
 	const EVOLVE_PIKACHU

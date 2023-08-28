@@ -98,6 +98,9 @@ SilcoonFootprint::
 BeautiflyFootprint::
 CascoonFootprint::
 DustoxFootprint::
+LotadFootprint::
+LombreFootprint::
+LudicoloFootprint::
 ZubatFootprint:: INCBIN "gfx/footprints/blank.1bpp.lz"
 
 BulbasaurFootprint:: INCBIN "gfx/footprints/bulbasaur.1bpp.lz"

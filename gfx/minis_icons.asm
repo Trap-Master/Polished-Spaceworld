@@ -1372,6 +1372,22 @@ DustoxMini::     INCBIN "gfx/minis/dustox.2bpp.lz"
 DustoxMiniMask:: INCBIN "gfx/minis/dustox_mask.1bpp.lz"
 DustoxIcon::     INCBIN "gfx/icons/dustox.2bpp.lz"
 
+SECTION "Lotad Mini Icon", ROMX
+LotadMini::     INCBIN "gfx/minis/lotad.2bpp.lz"
+LotadMiniMask:: INCBIN "gfx/minis/lotad_mask.1bpp.lz"
+LotadIcon::     INCBIN "gfx/icons/lotad.2bpp.lz"
+
+SECTION "Lombre Mini Icon", ROMX
+LombreMini::     INCBIN "gfx/minis/lombre.2bpp.lz"
+LombreMiniMask:: INCBIN "gfx/minis/lombre_mask.1bpp.lz"
+LombreIcon::     INCBIN "gfx/icons/lombre.2bpp.lz"
+
+
+SECTION "Ludicolo Mini Icon", ROMX
+LudicoloMini::     INCBIN "gfx/minis/ludicolo.2bpp.lz"
+LudicoloMiniMask:: INCBIN "gfx/minis/ludicolo_mask.1bpp.lz"
+LudicoloIcon::     INCBIN "gfx/icons/ludicolo.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

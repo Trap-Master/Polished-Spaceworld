@@ -272,6 +272,9 @@ FootprintPointers::
 	dw BeautiflyFootprint
 	dw CascoonFootprint
 	dw DustoxFootprint
+	dw LotadFootprint
+	dw LombreFootprint
+	dw LudicoloFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

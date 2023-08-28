@@ -276,6 +276,9 @@ OverworldMonIconColors::
 	iconpal RED, RED ; BEAUTIFLY
 	iconpal PURPLE, PURPLE ; CASCOON
 	iconpal PURPLE, PURPLE ; DUSTOX
+	iconpal GREEN, GREEN ; LOTAD
+	iconpal GREEN, GREEN ; LOMBRE
+	iconpal GREEN, GREEN ; LUDICOLO
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

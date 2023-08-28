@@ -5873,14 +5873,27 @@ LinooneEvosAttacks:
 	db -1 ; no more level-up moves
 	
 WurmpleEvosAttacks:
-	evo_data EVOLVE_LEVEL, 7, SILCOON
-	evo_data EVOLVE_LEVEL, 7, CASCOON
+	;evo_data EVOLVE_LEVEL, 7, SILCOON
+	;evo_data EVOLVE_LEVEL, 7, CASCOON
+	evo_data EVOLVE_STAT, 7, ATK_LT_DEF, SILCOON
+	evo_data EVOLVE_STAT, 7, ATK_GT_DEF, CASCOON
+	;evo_data EVOLVE_HOLDING, KINGS_ROCK, TR_ANYTIME, POLITOED
 SilcoonEvosAttacks:
 	evo_data EVOLVE_LEVEL, 10, BEAUTIFLY
 CascoonEvosAttacks:
 	evo_data EVOLVE_LEVEL, 10, DUSTOX
 BeautiflyEvosAttacks:
 DustoxEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
+
+LotadEvosAttacks:
+	evo_data EVOLVE_LEVEL, 14, LOMBRE
+LombreEvosAttacks:
+	evo_data EVOLVE_LEVEL, 36, LUDICOLO
+LudicoloEvosAttacks:
 	db -1 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER ; Tail Whip → similar move

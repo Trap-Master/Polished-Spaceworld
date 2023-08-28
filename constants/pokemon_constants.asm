@@ -296,6 +296,9 @@
 	const BEAUTIFLY  ; 10d 267
 	const CASCOON    ; 10e 268
 	const DUSTOX     ; 10f 269
+	const LOTAD      ; 110 270
+	const LOMBRE     ; 111 271
+	const LUDICOLO   ; 112 272
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

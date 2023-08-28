@@ -274,6 +274,9 @@ ValidPokemonLevels: ; for Wonder Trade
 	db  10, 100 ; Beautifly
 	db   7,   9 ; Cascoon
 	db  10, 100 ; Dustox
+	db   1,  13 ; Lotad
+	db   14, 35 ; Lombre
+	db  36, 100 ; Ludicolo
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

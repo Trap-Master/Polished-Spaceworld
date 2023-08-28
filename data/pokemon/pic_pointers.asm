@@ -276,6 +276,9 @@ PokemonPicPointers::
 	pics Beautifly
 	pics Cascoon
 	pics Dustox
+	pics Lotad
+	pics Lombre
+	pics Ludicolo
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

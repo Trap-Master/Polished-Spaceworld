@@ -137,6 +137,9 @@ AlphabeticalPokedexOrder:
 	dp LICKILICKY
 	dp LICKITUNG
 	dp LINOONE
+	dp LOMBRE
+	dp LOTAD
+	dp LUDICOLO
 	dp LUGIA
 	dp MACHAMP
 	dp MACHOKE

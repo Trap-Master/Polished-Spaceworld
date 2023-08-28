@@ -271,6 +271,9 @@ FramesPointers:
 	dw BeautiflyFrames
 	dw CascoonFrames
 	dw DustoxFrames
+	dw LotadFrames
+	dw LombreFrames
+	dw LudicoloFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

@@ -271,6 +271,9 @@ AnimationExtraPointers:
 	dw BeautiflyAnimationExtra
 	dw CascoonAnimationExtra
 	dw DustoxAnimationExtra
+	dw LotadAnimationExtra
+	dw LombreAnimationExtra
+	dw LudicoloAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

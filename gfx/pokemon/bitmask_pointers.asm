@@ -271,6 +271,9 @@ BitmasksPointers:
 	dw BeautiflyBitmasks
 	dw CascoonBitmasks
 	dw DustoxBitmasks
+	dw LotadBitmasks
+	dw LombreBitmasks
+	dw LudicoloBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

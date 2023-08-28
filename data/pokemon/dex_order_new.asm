@@ -120,6 +120,9 @@ NewPokedexOrder:
 	dp GLOOM
 	dp VILEPLUME
 	dp BELLOSSOM
+	dp LOTAD
+	dp LOMBRE
+	dp LUDICOLO
 	dp DROWZEE
 	dp HYPNO
 	dp ABRA

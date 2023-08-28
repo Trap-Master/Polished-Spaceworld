@@ -956,10 +956,21 @@ SECTION "Cascoon Pics", ROMX
 CascoonFrontpic: INCBIN "gfx/pokemon/cascoon/front.animated.2bpp.lz"
 CascoonBackpic:  INCBIN "gfx/pokemon/cascoon/back.2bpp.lz"
 
-
 SECTION "Dustox Pics", ROMX
 DustoxFrontpic: INCBIN "gfx/pokemon/dustox/front.animated.2bpp.lz"
 DustoxBackpic:  INCBIN "gfx/pokemon/dustox/back.2bpp.lz"
+
+SECTION "Lotad Pics", ROMX
+LotadFrontpic: INCBIN "gfx/pokemon/lotad/front.animated.2bpp.lz"
+LotadBackpic:  INCBIN "gfx/pokemon/lotad/back.2bpp.lz"
+
+SECTION "Lombre Pics", ROMX
+LombreFrontpic: INCBIN "gfx/pokemon/lombre/front.animated.2bpp.lz"
+LombreBackpic:  INCBIN "gfx/pokemon/lombre/back.2bpp.lz"
+
+SECTION "Ludicolo Pics", ROMX
+LudicoloFrontpic: INCBIN "gfx/pokemon/ludicolo/front.animated.2bpp.lz"
+LudicoloBackpic:  INCBIN "gfx/pokemon/ludicolo/back.2bpp.lz"
 
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"

@@ -276,6 +276,9 @@ MiniIconPointers:
 	mini_icon Beautifly
 	mini_icon Cascoon
 	mini_icon Dustox
+	mini_icon Lotad
+	mini_icon Lombre
+	mini_icon Ludicolo
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

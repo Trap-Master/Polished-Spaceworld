@@ -2695,6 +2695,36 @@ DustoxPokedexEntry::
 	page "strongest sick."
 	next "They are attracted"
 	next "to city lights.@"
+	
+SECTION "LotadPokedexEntry", ROMX
+LotadPokedexEntry::
+	db "Water Weed@"
+	db   "The leaf on its"
+	next "head make it hard"
+	next "to live on land."
+	page "It ferries #mon"
+	next "on its leaf who"
+	next "cannot swim.@"
+
+SECTION "LombrePokedexEntry", ROMX
+LombrePokedexEntry::
+	db "Jolly@"
+	db   "A prankster it"
+	next "often tugs at"
+	next "angler baits. Its"
+	page "also likes surpri-"
+	next "sing people by pop"
+	next "ping out of water.@"
+
+SECTION "LudicoloPokedexEntry", ROMX
+LudicoloPokedexEntry::
+	db "Carefree@"
+	db   "It cannot help"
+	next "dancing when it"
+	next "hears upbeat or"
+	page "festive music."
+	next "Its popular with"
+	next "children for this.@"
 
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
