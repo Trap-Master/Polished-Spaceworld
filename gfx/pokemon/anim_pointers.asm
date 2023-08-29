@@ -275,6 +275,9 @@ AnimationPointers:
 	dw LotadAnimation
 	dw LombreAnimation
 	dw LudicoloAnimation
+	dw SeedotAnimation
+	dw NuzleafAnimation
+	dw ShiftryAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

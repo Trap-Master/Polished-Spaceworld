@@ -2726,6 +2726,36 @@ LudicoloPokedexEntry::
 	next "Its popular with"
 	next "children for this.@"
 
+SECTION "SeedotPokedexEntry", ROMX
+SeedotPokedexEntry::
+	db "Acorn@"
+	db   "It absorbs nutrie-"
+	next "nts by attaching"
+	next "itself to branch-"
+	page "es. It polishes"
+	next "its body with lea-"
+	next "ves.@"
+
+SECTION "NuzleafPokedexEntry", ROMX
+NuzleafPokedexEntry::
+	db "Wily@"
+	db   "It loves scaring"
+	next "people. With the"
+	next "leaf on its head,"
+	page "it makes a flute"
+	next "whose song makes"
+	next "listeners uneasy.@"
+
+SECTION "ShiftryPokedexEntry", ROMX
+ShiftryPokedexEntry::
+	db "Wicked@"
+	db   "Feared as the"
+	next "guardian of the"
+	next "forest. Its leaf"
+	page "fans can whip up"
+	next "winds that level"
+	next "houses at 100mph.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

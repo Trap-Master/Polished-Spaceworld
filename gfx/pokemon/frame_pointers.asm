@@ -274,6 +274,9 @@ FramesPointers:
 	dw LotadFrames
 	dw LombreFrames
 	dw LudicoloFrames
+	dw SeedotFrames
+	dw NuzleafFrames
+	dw ShiftryFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

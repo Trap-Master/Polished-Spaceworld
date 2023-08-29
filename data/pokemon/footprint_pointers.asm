@@ -275,6 +275,9 @@ FootprintPointers::
 	dw LotadFootprint
 	dw LombreFootprint
 	dw LudicoloFootprint
+	dw SeedotFootprint
+	dw NuzleafFootprint
+	dw ShiftryFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

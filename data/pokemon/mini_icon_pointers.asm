@@ -279,6 +279,9 @@ MiniIconPointers:
 	mini_icon Lotad
 	mini_icon Lombre
 	mini_icon Ludicolo
+	mini_icon Seedot
+	mini_icon Nuzleaf
+	mini_icon Shiftry
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

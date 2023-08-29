@@ -279,6 +279,9 @@ endc
 	db NO_MOVE      ; LOTAD
 	db NO_MOVE      ; LOMBRE
 	db NO_MOVE      ; LUDICOLO
+	db NO_MOVE      ; SEEDOT
+	db NO_MOVE      ; NUZLEAF
+	db NO_MOVE      ; SHIFTRY
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

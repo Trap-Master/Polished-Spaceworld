@@ -57,7 +57,7 @@ GivemndebugScript:
 	waitsfx
 	;buttonsound
 	setflag ENGINE_POKEDEX
-	givepoke LOTAD, NO_FORM, 5;, ORAN_BERRY;, SHINY_MASK
+	givepoke SEEDOT, NO_FORM, 5;, ORAN_BERRY;, SHINY_MASK
 	;loadmem wPartyMon1Shiny, SHINY_MASK
 	giveitem RARE_CANDY, 99
 	closetext

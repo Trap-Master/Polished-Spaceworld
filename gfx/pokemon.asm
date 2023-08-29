@@ -972,6 +972,19 @@ SECTION "Ludicolo Pics", ROMX
 LudicoloFrontpic: INCBIN "gfx/pokemon/ludicolo/front.animated.2bpp.lz"
 LudicoloBackpic:  INCBIN "gfx/pokemon/ludicolo/back.2bpp.lz"
 
+SECTION "Seedot Pics", ROMX
+SeedotFrontpic: INCBIN "gfx/pokemon/seedot/front.animated.2bpp.lz"
+SeedotBackpic:  INCBIN "gfx/pokemon/seedot/back.2bpp.lz"
+
+SECTION "Nuzleaf Pics", ROMX
+NuzleafFrontpic: INCBIN "gfx/pokemon/nuzleaf/front.animated.2bpp.lz"
+NuzleafBackpic:  INCBIN "gfx/pokemon/nuzleaf/back.2bpp.lz"
+
+
+SECTION "Shiftry Pics", ROMX
+ShiftryFrontpic: INCBIN "gfx/pokemon/shiftry/front.animated.2bpp.lz"
+ShiftryBackpic:  INCBIN "gfx/pokemon/shiftry/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

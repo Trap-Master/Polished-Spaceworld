@@ -279,6 +279,9 @@ OverworldMonIconColors::
 	iconpal GREEN, GREEN ; LOTAD
 	iconpal GREEN, GREEN ; LOMBRE
 	iconpal GREEN, GREEN ; LUDICOLO
+	iconpal BROWN, BROWN ; SEEDOT
+	iconpal BROWN, BROWN ; NUZLEAF
+	iconpal BROWN, BROWN ; SHIFTRY
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

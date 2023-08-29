@@ -186,6 +186,7 @@ AlphabeticalPokedexOrder:
 	dp NIDORINO
 	dp NINETALES
 	dp NOCTOWL
+	dp NUZLEAF
 	dp OCTILLERY
 	dp ODDISH
 	dp OMANYTE
@@ -236,9 +237,11 @@ AlphabeticalPokedexOrder:
 	dp SCYTHER
 	dp SEADRA
 	dp SEAKING
+	dp SEEDOT
 	dp SEEL
 	dp SENTRET
 	dp SHELLDER
+	dp SHIFTRY
 	dp SHUCKLE
 	dp SILCOON
 	dp SIRFETCH_D

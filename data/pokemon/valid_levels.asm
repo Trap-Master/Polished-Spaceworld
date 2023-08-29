@@ -277,6 +277,9 @@ ValidPokemonLevels: ; for Wonder Trade
 	db   1,  13 ; Lotad
 	db   14, 35 ; Lombre
 	db  36, 100 ; Ludicolo
+	db   1,  13 ; Seedot
+	db  14,  35 ; Nuzleaf
+	db  36, 100 ; Shiftry
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

@@ -5899,6 +5899,16 @@ LudicoloEvosAttacks:
 	db 1, LEER ; Tail Whip → similar move
 	db -1 ; no more level-up moves
 
+SeedotEvosAttacks:
+	evo_data EVOLVE_LEVEL, 14, NUZLEAF
+NuzleafEvosAttacks:
+	evo_data EVOLVE_LEVEL, 36, SHIFTRY
+ShiftryEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
+
 MismagiusEvosAttacks:
 	db -1 ; no more evolutions
 	db 1, POWER_GEM

@@ -299,6 +299,9 @@
 	const LOTAD      ; 110 270
 	const LOMBRE     ; 111 271
 	const LUDICOLO   ; 112 272
+	const SEEDOT     ; 113 273
+	const NUZLEAF    ; 114 274
+	const SHIFTRY    ; 115 275
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

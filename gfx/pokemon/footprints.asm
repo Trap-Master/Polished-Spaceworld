@@ -101,6 +101,9 @@ DustoxFootprint::
 LotadFootprint::
 LombreFootprint::
 LudicoloFootprint::
+SeedotFootprint::
+NuzleafFootprint::
+ShiftryFootprint::
 ZubatFootprint:: INCBIN "gfx/footprints/blank.1bpp.lz"
 
 BulbasaurFootprint:: INCBIN "gfx/footprints/bulbasaur.1bpp.lz"

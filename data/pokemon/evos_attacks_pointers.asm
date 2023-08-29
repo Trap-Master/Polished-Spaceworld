@@ -279,6 +279,9 @@ EvosAttacksPointers::
 	dw LotadEvosAttacks
 	dw LombreEvosAttacks
 	dw LudicoloEvosAttacks
+	dw SeedotEvosAttacks
+	dw NuzleafEvosAttacks
+	dw ShiftryEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

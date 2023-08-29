@@ -279,6 +279,9 @@ PokemonPicPointers::
 	pics Lotad
 	pics Lombre
 	pics Ludicolo
+	pics Seedot
+	pics Nuzleaf
+	pics Shiftry
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

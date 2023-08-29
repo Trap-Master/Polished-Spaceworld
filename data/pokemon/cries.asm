@@ -281,6 +281,9 @@ PokemonCries::
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Lotad
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Lombre
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Ludicolo
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Seedot
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Nuzleaf
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Shiftry
 	mon_cry CRY_MARILL,      $11b,  $120 ; Azurill
 	mon_cry CRY_AMPHAROS,    $27b,  $144 ; Wynaut
 	mon_cry CRY_TYROGUE,    -$051,  $0e8 ; Ambipom
