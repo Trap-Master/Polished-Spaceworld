@@ -278,6 +278,8 @@ AnimationPointers:
 	dw SeedotAnimation
 	dw NuzleafAnimation
 	dw ShiftryAnimation
+	dw TaillowAnimation
+	dw SwellowAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

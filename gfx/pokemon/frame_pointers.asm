@@ -277,6 +277,8 @@ FramesPointers:
 	dw SeedotFrames
 	dw NuzleafFrames
 	dw ShiftryFrames
+	dw TaillowFrames
+	dw SwellowFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

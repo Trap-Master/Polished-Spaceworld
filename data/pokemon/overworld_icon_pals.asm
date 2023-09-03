@@ -282,6 +282,8 @@ OverworldMonIconColors::
 	iconpal BROWN, BROWN ; SEEDOT
 	iconpal BROWN, BROWN ; NUZLEAF
 	iconpal BROWN, BROWN ; SHIFTRY
+	iconpal BLUE, BLUE ; TAILLOW
+	iconpal BLUE, BLUE ; SWELLOW
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

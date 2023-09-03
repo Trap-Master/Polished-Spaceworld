@@ -282,6 +282,8 @@ MiniIconPointers:
 	mini_icon Seedot
 	mini_icon Nuzleaf
 	mini_icon Shiftry
+	mini_icon Taillow
+	mini_icon Swellow
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

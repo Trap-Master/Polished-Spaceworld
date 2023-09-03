@@ -5909,6 +5909,14 @@ ShiftryEvosAttacks:
 	db 1, LEER ; Tail Whip → similar move
 	db -1 ; no more level-up moves
 
+TaillowEvosAttacks:
+	evo_data EVOLVE_LEVEL, 22, SWELLOW
+SwellowEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
+
 MismagiusEvosAttacks:
 	db -1 ; no more evolutions
 	db 1, POWER_GEM

@@ -279,6 +279,8 @@ PokedexDataPointerTable:
 	dba SeedotPokedexEntry
 	dba NuzleafPokedexEntry
 	dba ShiftryPokedexEntry
+	dba TaillowPokedexEntry
+	dba SwellowPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

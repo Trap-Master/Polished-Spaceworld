@@ -1402,6 +1402,16 @@ ShiftryMini::     INCBIN "gfx/minis/shiftry.2bpp.lz"
 ShiftryMiniMask:: INCBIN "gfx/minis/shiftry_mask.1bpp.lz"
 ShiftryIcon::     INCBIN "gfx/icons/shiftry.2bpp.lz"
 
+SECTION "Taillow Mini Icon", ROMX
+TaillowMini::     INCBIN "gfx/minis/taillow.2bpp.lz"
+TaillowMiniMask:: INCBIN "gfx/minis/taillow_mask.1bpp.lz"
+TaillowIcon::     INCBIN "gfx/icons/taillow.2bpp.lz"
+
+SECTION "Swellow Mini Icon", ROMX
+SwellowMini::     INCBIN "gfx/minis/swellow.2bpp.lz"
+SwellowMiniMask:: INCBIN "gfx/minis/swellow_mask.1bpp.lz"
+SwellowIcon::     INCBIN "gfx/icons/swellow.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

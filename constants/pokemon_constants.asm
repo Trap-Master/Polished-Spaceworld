@@ -302,6 +302,8 @@
 	const SEEDOT     ; 113 273
 	const NUZLEAF    ; 114 274
 	const SHIFTRY    ; 115 275
+	const TAILLOW    ; 116 276
+	const SWELLOW    ; 117 277
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

@@ -279,6 +279,8 @@ PokemonNames::
 	rawchar "Seedot@@@@"
 	rawchar "Nuzleaf@@@"
 	rawchar "Shiftry@@@"
+	rawchar "Taillow@@@"
+	rawchar "Swellow@@@"
 	rawchar "Azurill@@@"
 	rawchar "Wynaut@@@@"
 	rawchar "Ambipom@@@"

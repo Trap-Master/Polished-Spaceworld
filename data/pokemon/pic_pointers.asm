@@ -282,6 +282,8 @@ PokemonPicPointers::
 	pics Seedot
 	pics Nuzleaf
 	pics Shiftry
+	pics Taillow
+	pics Swellow
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

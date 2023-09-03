@@ -980,10 +980,17 @@ SECTION "Nuzleaf Pics", ROMX
 NuzleafFrontpic: INCBIN "gfx/pokemon/nuzleaf/front.animated.2bpp.lz"
 NuzleafBackpic:  INCBIN "gfx/pokemon/nuzleaf/back.2bpp.lz"
 
-
 SECTION "Shiftry Pics", ROMX
 ShiftryFrontpic: INCBIN "gfx/pokemon/shiftry/front.animated.2bpp.lz"
 ShiftryBackpic:  INCBIN "gfx/pokemon/shiftry/back.2bpp.lz"
+
+SECTION "Taillow Pics", ROMX
+TaillowFrontpic: INCBIN "gfx/pokemon/taillow/front.animated.2bpp.lz"
+TaillowBackpic:  INCBIN "gfx/pokemon/taillow/back.2bpp.lz"
+
+SECTION "Swellow Pics", ROMX
+SwellowFrontpic: INCBIN "gfx/pokemon/swellow/front.animated.2bpp.lz"
+SwellowBackpic:  INCBIN "gfx/pokemon/swellow/back.2bpp.lz"
 
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"

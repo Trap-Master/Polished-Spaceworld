@@ -278,6 +278,8 @@ FootprintPointers::
 	dw SeedotFootprint
 	dw NuzleafFootprint
 	dw ShiftryFootprint
+	dw TaillowFootprint
+	dw SwellowFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

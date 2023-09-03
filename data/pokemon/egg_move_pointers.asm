@@ -278,6 +278,8 @@ EggMovePointers::
 	dw NoEggMoves             ; Seedot
 	dw NoEggMoves             ; Nuzleaf
 	dw NoEggMoves             ; Shiftry
+	dw NoEggMoves             ; Taillow
+	dw NoEggMoves             ; Swellow
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

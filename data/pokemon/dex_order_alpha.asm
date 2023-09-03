@@ -269,8 +269,10 @@ AlphabeticalPokedexOrder:
 	dp SUNFLORA
 	dp SUNKERN
 	dp SWAMPERT
+	dp SWELLOW
 	dp SWINUB
 	dp SYLVEON
+	dp TAILLOW
 	dp TANGELA
 	dp TANGROWTH
 	dp TAUROS

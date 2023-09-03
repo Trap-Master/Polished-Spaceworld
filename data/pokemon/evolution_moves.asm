@@ -282,6 +282,8 @@ endc
 	db NO_MOVE      ; SEEDOT
 	db NO_MOVE      ; NUZLEAF
 	db NO_MOVE      ; SHIFTRY
+	db NO_MOVE      ; TAILLOW
+	db NO_MOVE      ; SWELLOW
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

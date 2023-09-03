@@ -36,6 +36,8 @@ NewPokedexOrder:
 	dp FEAROW
 	dp HOOTHOOT
 	dp NOCTOWL
+	dp TAILLOW
+	dp SWELLOW
 	dp RATTATA
 	dp RATICATE
 	dp SENTRET

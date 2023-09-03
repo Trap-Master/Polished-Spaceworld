@@ -277,6 +277,8 @@ AnimationExtraPointers:
 	dw SeedotAnimationExtra
 	dw NuzleafAnimationExtra
 	dw ShiftryAnimationExtra
+	dw TaillowAnimationExtra
+	dw SwellowAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

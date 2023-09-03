@@ -2756,6 +2756,26 @@ ShiftryPokedexEntry::
 	next "winds that level"
 	next "houses at 100mph.@"
 
+SECTION "TaillowPokedexEntry", ROMX
+TaillowPokedexEntry::
+	db "Tiny Swallow@"
+	db   "Extremely brave it"
+	next "faces larger foes"
+	next "like Skarmory. In"
+	page "winter they"
+	next "migrate south"
+	next "over 180 miles.@"
+
+SECTION "SwellowPokedexEntry", ROMX
+SwellowPokedexEntry::
+	db "Swallow@"
+	db   "Highly beautiful"
+	next "it loves grooming."
+	next "Its graceful flight"
+	page "hides a harsh"
+	next "predatory nature,"
+	next "it never misses.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"
