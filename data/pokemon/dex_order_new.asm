@@ -38,6 +38,8 @@ NewPokedexOrder:
 	dp NOCTOWL
 	dp TAILLOW
 	dp SWELLOW
+	dp WINGULL
+	dp PELIPPER
 	dp RATTATA
 	dp RATICATE
 	dp SENTRET

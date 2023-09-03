@@ -282,6 +282,8 @@ ValidPokemonLevels: ; for Wonder Trade
 	db  36, 100 ; Shiftry
 	db   1,  21 ; Taillow
 	db  22, 100 ; Swellow
+	db   1,  24 ; Wingull
+	db  25, 100 ; Pelipper
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

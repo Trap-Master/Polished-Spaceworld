@@ -281,6 +281,8 @@ PokedexDataPointerTable:
 	dba ShiftryPokedexEntry
 	dba TaillowPokedexEntry
 	dba SwellowPokedexEntry
+	dba WingullPokedexEntry
+	dba PelipperPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

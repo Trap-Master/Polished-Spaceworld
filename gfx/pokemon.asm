@@ -992,6 +992,14 @@ SECTION "Swellow Pics", ROMX
 SwellowFrontpic: INCBIN "gfx/pokemon/swellow/front.animated.2bpp.lz"
 SwellowBackpic:  INCBIN "gfx/pokemon/swellow/back.2bpp.lz"
 
+SECTION "Wingull Pics", ROMX
+WingullFrontpic: INCBIN "gfx/pokemon/wingull/front.animated.2bpp.lz"
+WingullBackpic:  INCBIN "gfx/pokemon/wingull/back.2bpp.lz"
+
+SECTION "Pelipper Pics", ROMX
+PelipperFrontpic: INCBIN "gfx/pokemon/pelipper/front.animated.2bpp.lz"
+PelipperBackpic:  INCBIN "gfx/pokemon/pelipper/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

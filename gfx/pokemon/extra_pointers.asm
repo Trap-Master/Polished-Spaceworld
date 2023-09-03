@@ -279,6 +279,8 @@ AnimationExtraPointers:
 	dw ShiftryAnimationExtra
 	dw TaillowAnimationExtra
 	dw SwellowAnimationExtra
+	dw WingullAnimationExtra
+	dw PelipperAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

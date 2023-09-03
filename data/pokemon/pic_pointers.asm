@@ -284,6 +284,8 @@ PokemonPicPointers::
 	pics Shiftry
 	pics Taillow
 	pics Swellow
+	pics Wingull
+	pics Pelipper
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

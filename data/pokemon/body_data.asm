@@ -287,6 +287,8 @@ PokemonBodyData:
 	body_data  13,  596, BIPEDAL,      BROWN  ; SHIFTRY
 	body_data   3,   23, WINGS,        BLUE   ; TAILLOW
 	body_data   7,  198, WINGS,        BLUE   ; SWELLOW
+	body_data   6,   95, WINGS,        WHITE  ; WINGULL
+	body_data  12,  280, WINGS,        WHITE  ; PELIPPER
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

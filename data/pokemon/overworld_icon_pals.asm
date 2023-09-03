@@ -284,6 +284,8 @@ OverworldMonIconColors::
 	iconpal BROWN, BROWN ; SHIFTRY
 	iconpal BLUE, BLUE ; TAILLOW
 	iconpal BLUE, BLUE ; SWELLOW
+	iconpal BLUE, BLUE ; WINGULL
+	iconpal BLUE, BLUE ; PELIPPER
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

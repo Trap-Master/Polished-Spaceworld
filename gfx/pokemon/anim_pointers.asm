@@ -280,6 +280,8 @@ AnimationPointers:
 	dw ShiftryAnimation
 	dw TaillowAnimation
 	dw SwellowAnimation
+	dw WingullAnimation
+	dw PelipperAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

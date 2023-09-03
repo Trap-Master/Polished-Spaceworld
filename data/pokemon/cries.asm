@@ -286,6 +286,8 @@ PokemonCries::
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Shiftry
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Taillow
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Swellow
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Wingull
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Pelipper
 	mon_cry CRY_MARILL,      $11b,  $120 ; Azurill
 	mon_cry CRY_AMPHAROS,    $27b,  $144 ; Wynaut
 	mon_cry CRY_TYROGUE,    -$051,  $0e8 ; Ambipom

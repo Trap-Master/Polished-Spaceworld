@@ -2776,6 +2776,26 @@ SwellowPokedexEntry::
 	next "predatory nature,"
 	next "it never misses.@"
 
+SECTION "WingullPokedexEntry", ROMX
+WingullPokedexEntry::
+	db "Seagull@"
+	db   "It roosts on cliff"
+	next "overlooking the"
+	next "ocean. Using wind"
+	page "drafts to reach"
+	next "great heights"
+	next "using its wings.@"
+
+SECTION "PelipperPokedexEntry", ROMX
+PelipperPokedexEntry::
+	db "Water Bird@"
+	db   "It carries its"
+	next "young in its large"
+	next "bill which it also"
+	page "uses to scoop up"
+	next "prey from the"
+	next "water.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

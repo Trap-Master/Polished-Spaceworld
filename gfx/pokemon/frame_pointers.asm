@@ -279,6 +279,8 @@ FramesPointers:
 	dw ShiftryFrames
 	dw TaillowFrames
 	dw SwellowFrames
+	dw WingullFrames
+	dw PelipperFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

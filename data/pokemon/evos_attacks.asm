@@ -5917,6 +5917,14 @@ SwellowEvosAttacks:
 	db 1, LEER ; Tail Whip → similar move
 	db -1 ; no more level-up moves
 
+WingullEvosAttacks:
+	evo_data EVOLVE_LEVEL, 25, PELIPPER
+PelipperEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
+
 MismagiusEvosAttacks:
 	db -1 ; no more evolutions
 	db 1, POWER_GEM

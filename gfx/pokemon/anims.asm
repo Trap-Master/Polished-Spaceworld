@@ -231,6 +231,8 @@ NuzleafAnimation:    INCLUDE "gfx/pokemon/nuzleaf/anim.asm"
 ShiftryAnimation:    INCLUDE "gfx/pokemon/shiftry/anim.asm"
 TaillowAnimation:    INCLUDE "gfx/pokemon/taillow/anim.asm"
 SwellowAnimation:    INCLUDE "gfx/pokemon/swellow/anim.asm"
+WingullAnimation:    INCLUDE "gfx/pokemon/wingull/anim.asm"
+PelipperAnimation:   INCLUDE "gfx/pokemon/pelipper/anim.asm"
 AzurillAnimation:    INCLUDE "gfx/pokemon/azurill/anim.asm"
 WynautAnimation:     INCLUDE "gfx/pokemon/wynaut/anim.asm"
 ;Sinnoh Pokemon

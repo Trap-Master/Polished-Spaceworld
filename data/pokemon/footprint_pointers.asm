@@ -280,6 +280,8 @@ FootprintPointers::
 	dw ShiftryFootprint
 	dw TaillowFootprint
 	dw SwellowFootprint
+	dw WingullFootprint
+	dw PelipperFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

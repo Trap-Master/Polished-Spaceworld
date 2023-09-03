@@ -304,6 +304,8 @@
 	const SHIFTRY    ; 115 275
 	const TAILLOW    ; 116 276
 	const SWELLOW    ; 117 277
+	const WINGULL    ; 118 278
+	const PELIPPER   ; 119 279
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

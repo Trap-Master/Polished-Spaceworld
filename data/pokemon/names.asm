@@ -281,6 +281,8 @@ PokemonNames::
 	rawchar "Shiftry@@@"
 	rawchar "Taillow@@@"
 	rawchar "Swellow@@@"
+	rawchar "Wingull@@@"
+	rawchar "Pelipper@@"
 	rawchar "Azurill@@@"
 	rawchar "Wynaut@@@@"
 	rawchar "Ambipom@@@"

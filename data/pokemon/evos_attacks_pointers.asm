@@ -284,6 +284,8 @@ EvosAttacksPointers::
 	dw ShiftryEvosAttacks
 	dw TaillowEvosAttacks
 	dw SwellowEvosAttacks
+	dw WingullEvosAttacks
+	dw PelipperEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

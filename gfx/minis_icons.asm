@@ -1412,6 +1412,16 @@ SwellowMini::     INCBIN "gfx/minis/swellow.2bpp.lz"
 SwellowMiniMask:: INCBIN "gfx/minis/swellow_mask.1bpp.lz"
 SwellowIcon::     INCBIN "gfx/icons/swellow.2bpp.lz"
 
+SECTION "Wingull Mini Icon", ROMX
+WingullMini::     INCBIN "gfx/minis/wingull.2bpp.lz"
+WingullMiniMask:: INCBIN "gfx/minis/wingull_mask.1bpp.lz"
+WingullIcon::     INCBIN "gfx/icons/wingull.2bpp.lz"
+
+SECTION "Pelipper Mini Icon", ROMX
+PelipperMini::     INCBIN "gfx/minis/pelipper.2bpp.lz"
+PelipperMiniMask:: INCBIN "gfx/minis/pelipper_mask.1bpp.lz"
+PelipperIcon::     INCBIN "gfx/icons/pelipper.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

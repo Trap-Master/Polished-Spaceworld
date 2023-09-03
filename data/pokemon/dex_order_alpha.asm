@@ -195,6 +195,7 @@ AlphabeticalPokedexOrder:
 	dp OVERQWIL
 	dp PARAS
 	dp PARASECT
+	dp PELIPPER
 	dp PERRSERKER
 	dp PERSIAN
 	dp PHANPY
@@ -306,6 +307,7 @@ AlphabeticalPokedexOrder:
 	dp WEEPINBELL
 	dp WEEZING
 	dp WIGGLYTUFF
+	dp WINGULL
 	dp WOBBUFFET
 	dp WOOPER
 	dp WURMPLE
