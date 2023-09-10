@@ -306,6 +306,9 @@
 	const SWELLOW    ; 117 277
 	const WINGULL    ; 118 278
 	const PELIPPER   ; 119 279
+	const RALTS      ; 11a 280
+	const KIRLIA     ; 11b 281
+	const GARDEVOIR  ; 11c 282
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

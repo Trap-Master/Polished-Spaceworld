@@ -281,6 +281,9 @@ AnimationExtraPointers:
 	dw SwellowAnimationExtra
 	dw WingullAnimationExtra
 	dw PelipperAnimationExtra
+	dw RaltsAnimationExtra
+	dw KirliaAnimationExtra
+	dw GardevoirAnimationExtra
 	dw AzurillAnimationExtra
 	dw WynautAnimationExtra
 	dw AmbipomAnimationExtra

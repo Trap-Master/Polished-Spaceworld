@@ -281,6 +281,9 @@ FramesPointers:
 	dw SwellowFrames
 	dw WingullFrames
 	dw PelipperFrames
+	dw RaltsFrames
+	dw KirliaFrames
+	dw GardevoirFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

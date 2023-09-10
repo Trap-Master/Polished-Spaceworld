@@ -1000,6 +1000,18 @@ SECTION "Pelipper Pics", ROMX
 PelipperFrontpic: INCBIN "gfx/pokemon/pelipper/front.animated.2bpp.lz"
 PelipperBackpic:  INCBIN "gfx/pokemon/pelipper/back.2bpp.lz"
 
+SECTION "Ralts Pics", ROMX
+RaltsFrontpic: INCBIN "gfx/pokemon/ralts/front.animated.2bpp.lz"
+RaltsBackpic:  INCBIN "gfx/pokemon/ralts/back.2bpp.lz"
+
+SECTION "Kirlia Pics", ROMX
+KirliaFrontpic: INCBIN "gfx/pokemon/kirlia/front.animated.2bpp.lz"
+KirliaBackpic:  INCBIN "gfx/pokemon/kirlia/back.2bpp.lz"
+
+SECTION "Gardevoir Pics", ROMX
+GardevoirFrontpic: INCBIN "gfx/pokemon/gardevoir/front.animated.2bpp.lz"
+GardevoirBackpic:  INCBIN "gfx/pokemon/gardevoir/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

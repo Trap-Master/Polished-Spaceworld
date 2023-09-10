@@ -1422,6 +1422,21 @@ PelipperMini::     INCBIN "gfx/minis/pelipper.2bpp.lz"
 PelipperMiniMask:: INCBIN "gfx/minis/pelipper_mask.1bpp.lz"
 PelipperIcon::     INCBIN "gfx/icons/pelipper.2bpp.lz"
 
+SECTION "Ralts Mini Icon", ROMX
+RaltsMini::     INCBIN "gfx/minis/ralts.2bpp.lz"
+RaltsMiniMask:: INCBIN "gfx/minis/ralts_mask.1bpp.lz"
+RaltsIcon::     INCBIN "gfx/icons/ralts.2bpp.lz"
+
+SECTION "Kirlia Mini Icon", ROMX
+KirliaMini::     INCBIN "gfx/minis/kirlia.2bpp.lz"
+KirliaMiniMask:: INCBIN "gfx/minis/kirlia_mask.1bpp.lz"
+KirliaIcon::     INCBIN "gfx/icons/kirlia.2bpp.lz"
+
+SECTION "Gardevoir Mini Icon", ROMX
+GardevoirMini::     INCBIN "gfx/minis/gardevoir.2bpp.lz"
+GardevoirMiniMask:: INCBIN "gfx/minis/gardevoir_mask.1bpp.lz"
+GardevoirIcon::     INCBIN "gfx/icons/gardevoir.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

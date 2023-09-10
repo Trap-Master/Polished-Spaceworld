@@ -284,6 +284,9 @@ ValidPokemonLevels: ; for Wonder Trade
 	db  22, 100 ; Swellow
 	db   1,  24 ; Wingull
 	db  25, 100 ; Pelipper
+	db   1,  19 ; Ralts
+	db  20, 29  ; Kirlia
+	db  30, 100 ; Gardevoir
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

@@ -286,6 +286,9 @@ endc
 	db NO_MOVE      ; SWELLOW
 	db NO_MOVE      ; WINGULL
 	db NO_MOVE      ; PELIPPER
+	db NO_MOVE      ; RALTS
+	db NO_MOVE      ; KIRLIA
+	db NO_MOVE      ; GARDEVOIR
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

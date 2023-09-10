@@ -5924,6 +5924,16 @@ PelipperEvosAttacks:
 	db 1, SCRATCH
 	db 1, LEER ; Tail Whip → similar move
 	db -1 ; no more level-up moves
+	
+RaltsEvosAttacks:
+	evo_data EVOLVE_LEVEL, 20, KIRLIA
+KirliaEvosAttacks:
+	evo_data EVOLVE_LEVEL, 30, GARDEVOIR
+GardevoirEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
 
 MismagiusEvosAttacks:
 	db -1 ; no more evolutions

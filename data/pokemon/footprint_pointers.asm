@@ -282,6 +282,9 @@ FootprintPointers::
 	dw SwellowFootprint
 	dw WingullFootprint
 	dw PelipperFootprint
+	dw RaltsFootprint
+	dw KirliaFootprint
+	dw GardevoirFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

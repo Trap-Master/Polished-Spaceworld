@@ -282,6 +282,9 @@ EggMovePointers::
 	dw NoEggMoves             ; Swellow
 	dw NoEggMoves             ; Wingull
 	dw NoEggMoves             ; Pelipper
+	dw NoEggMoves             ; Ralts
+	dw NoEggMoves             ; Kirlia
+	dw NoEggMoves             ; Gardevoir
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

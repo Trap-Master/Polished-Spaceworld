@@ -281,6 +281,9 @@ BitmasksPointers:
 	dw SwellowBitmasks
 	dw WingullBitmasks
 	dw PelipperBitmasks
+	dw RaltsBitmasks
+	dw KirliaBitmasks
+	dw GardevoirBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

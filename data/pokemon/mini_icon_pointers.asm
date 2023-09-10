@@ -286,6 +286,9 @@ MiniIconPointers:
 	mini_icon Swellow
 	mini_icon Wingull
 	mini_icon Pelipper
+	mini_icon Ralts
+	mini_icon Kirlia
+	mini_icon Gardevoir
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

@@ -286,6 +286,9 @@ PokemonPicPointers::
 	pics Swellow
 	pics Wingull
 	pics Pelipper
+	pics Ralts
+	pics Kirlia
+	pics Gardevoir
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

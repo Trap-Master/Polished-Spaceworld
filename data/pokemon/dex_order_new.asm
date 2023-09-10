@@ -135,6 +135,9 @@ NewPokedexOrder:
 	dp ABRA
 	dp KADABRA
 	dp ALAKAZAM
+	dp RALTS
+	dp KIRLIA
+	dp GARDEVOIR
 	dp DITTO
 	dp PINECO
 	dp FORRETRESS

@@ -2796,6 +2796,36 @@ PelipperPokedexEntry::
 	next "prey from the"
 	next "water.@"
 
+SECTION "RaltsPokedexEntry", ROMX
+RaltsPokedexEntry::
+	db "Feeling@"
+	db   "Its horns can sense"
+	next "emotions of living"
+	next "beings. It prefers"
+	page "cheery and kind"
+	next "people than gloomy"
+	next "ones.@"
+
+SECTION "KirliaPokedexEntry", ROMX
+KirliaPokedexEntry::
+	db "Emotion@"
+	db   "When its trainer is"
+	next "happy it dances"
+	next "around joyously. It"
+	page "can see into the"
+	next "future and distort"
+	next "dimensions.@"
+
+SECTION "GardevoirPokedexEntry", ROMX
+GardevoirPokedexEntry::
+	db "Embrace@"
+	db   "It will protect its"
+	next "trainer at the cost"
+	next "of its own life."
+	page "Able to create"
+	next "black holes with"
+	next "its psychic powers.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

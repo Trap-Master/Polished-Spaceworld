@@ -80,6 +80,7 @@ AlphabeticalPokedexOrder:
 	dp FLAREON
 	dp FORRETRESS
 	dp FURRET
+	dp GARDEVOIR
 	dp GASTLY
 	dp GENGAR
 	dp GEODUDE
@@ -125,6 +126,7 @@ AlphabeticalPokedexOrder:
 	dp KANGASKHAN
 	dp KINGDRA
 	dp KINGLER
+	dp KIRLIA
 	dp KLEAVOR
 	dp KOFFING
 	dp KRABBY
@@ -224,6 +226,7 @@ AlphabeticalPokedexOrder:
 	dp QWILFISH
 	dp RAICHU
 	dp RAIKOU
+	dp RALTS
 	dp RAPIDASH
 	dp RATICATE
 	dp RATTATA

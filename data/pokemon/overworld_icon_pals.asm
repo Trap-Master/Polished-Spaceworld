@@ -286,6 +286,9 @@ OverworldMonIconColors::
 	iconpal BLUE, BLUE ; SWELLOW
 	iconpal BLUE, BLUE ; WINGULL
 	iconpal BLUE, BLUE ; PELIPPER
+	iconpal GREEN, GREEN ; RALTS
+	iconpal GREEN, GREEN ; Kirlia
+	iconpal GREEN, GREEN ; Gardevoir
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM
