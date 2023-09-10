@@ -1437,6 +1437,16 @@ GardevoirMini::     INCBIN "gfx/minis/gardevoir.2bpp.lz"
 GardevoirMiniMask:: INCBIN "gfx/minis/gardevoir_mask.1bpp.lz"
 GardevoirIcon::     INCBIN "gfx/icons/gardevoir.2bpp.lz"
 
+SECTION "Surskit Mini Icon", ROMX
+SurskitMini::     INCBIN "gfx/minis/surskit.2bpp.lz"
+SurskitMiniMask:: INCBIN "gfx/minis/surskit_mask.1bpp.lz"
+SurskitIcon::     INCBIN "gfx/icons/surskit.2bpp.lz"
+
+SECTION "Masquerain Mini Icon", ROMX
+MasquerainMini::     INCBIN "gfx/minis/masquerain.2bpp.lz"
+MasquerainMiniMask:: INCBIN "gfx/minis/masquerain_mask.1bpp.lz"
+MasquerainIcon::     INCBIN "gfx/icons/masquerain.2bpp.lz"
+
 SECTION "Mismagius Mini Icon", ROMX
 MismagiusMini::     INCBIN "gfx/minis/mismagius.2bpp.lz"
 MismagiusMiniMask:: INCBIN "gfx/minis/mismagius_mask.1bpp.lz"

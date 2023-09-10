@@ -284,6 +284,8 @@ BitmasksPointers:
 	dw RaltsBitmasks
 	dw KirliaBitmasks
 	dw GardevoirBitmasks
+	dw SurskitBitmasks
+	dw MasquerainBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

@@ -1012,6 +1012,14 @@ SECTION "Gardevoir Pics", ROMX
 GardevoirFrontpic: INCBIN "gfx/pokemon/gardevoir/front.animated.2bpp.lz"
 GardevoirBackpic:  INCBIN "gfx/pokemon/gardevoir/back.2bpp.lz"
 
+SECTION "Surskit Pics", ROMX
+SurskitFrontpic: INCBIN "gfx/pokemon/surskit/front.animated.2bpp.lz"
+SurskitBackpic:  INCBIN "gfx/pokemon/surskit/back.2bpp.lz"
+
+SECTION "Masquerain Pics", ROMX
+MasquerainFrontpic: INCBIN "gfx/pokemon/masquerain/front.animated.2bpp.lz"
+MasquerainBackpic:  INCBIN "gfx/pokemon/masquerain/back.2bpp.lz"
+
 SECTION "Azurill Pics", ROMX
 AzurillFrontpic: INCBIN "gfx/pokemon/azurill/front.animated.2bpp.lz"
 AzurillBackpic:  INCBIN "gfx/pokemon/azurill/back.2bpp.lz"

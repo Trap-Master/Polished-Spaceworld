@@ -284,6 +284,8 @@ FramesPointers:
 	dw RaltsFrames
 	dw KirliaFrames
 	dw GardevoirFrames
+	dw SurskitFrames
+	dw MasquerainFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

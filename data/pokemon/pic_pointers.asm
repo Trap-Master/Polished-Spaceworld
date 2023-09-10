@@ -289,6 +289,8 @@ PokemonPicPointers::
 	pics Ralts
 	pics Kirlia
 	pics Gardevoir
+	pics Surskit
+	pics Masquerain
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

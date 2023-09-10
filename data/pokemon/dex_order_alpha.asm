@@ -162,6 +162,7 @@ AlphabeticalPokedexOrder:
 	dp MARILL
 	dp MAROWAK
 	dp MARSHTOMP
+	dp MASQUERAIN
 	dp MEGANIUM
 	dp MEOWTH
 	dp METAPOD
@@ -272,6 +273,7 @@ AlphabeticalPokedexOrder:
 	dp SUICUNE
 	dp SUNFLORA
 	dp SUNKERN
+	dp SURSKIT
 	dp SWAMPERT
 	dp SWELLOW
 	dp SWINUB

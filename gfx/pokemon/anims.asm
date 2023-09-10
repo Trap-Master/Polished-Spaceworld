@@ -236,6 +236,8 @@ PelipperAnimation:   INCLUDE "gfx/pokemon/pelipper/anim.asm"
 RaltsAnimation:      INCLUDE "gfx/pokemon/ralts/anim.asm"
 KirliaAnimation:     INCLUDE "gfx/pokemon/kirlia/anim.asm"
 GardevoirAnimation:  INCLUDE "gfx/pokemon/gardevoir/anim.asm"
+SurskitAnimation:    INCLUDE "gfx/pokemon/surskit/anim.asm"
+MasquerainAnimation: INCLUDE "gfx/pokemon/masquerain/anim.asm"
 AzurillAnimation:    INCLUDE "gfx/pokemon/azurill/anim.asm"
 WynautAnimation:     INCLUDE "gfx/pokemon/wynaut/anim.asm"
 ;Sinnoh Pokemon

@@ -286,6 +286,8 @@ PokedexDataPointerTable:
 	dba RaltsPokedexEntry
 	dba KirliaPokedexEntry
 	dba GardevoirPokedexEntry
+	dba SurskitPokedexEntry
+	dba MasquerainPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

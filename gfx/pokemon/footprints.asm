@@ -111,6 +111,8 @@ PelipperFootprint::
 RaltsFootprint::
 KirliaFootprint::
 GardevoirFootprint::
+SurskitFootprint::
+MasquerainFootprint::
 ZubatFootprint:: INCBIN "gfx/footprints/blank.1bpp.lz"
 
 BulbasaurFootprint:: INCBIN "gfx/footprints/bulbasaur.1bpp.lz"

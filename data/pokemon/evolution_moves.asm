@@ -289,6 +289,8 @@ endc
 	db NO_MOVE      ; RALTS
 	db NO_MOVE      ; KIRLIA
 	db NO_MOVE      ; GARDEVOIR
+	db NO_MOVE      ; SURSKIT
+	db NO_MOVE      ; MASQUERAIN
 	db NO_MOVE      ; AZURILL
 	db NO_MOVE      ; WYNAUT
 	db NO_MOVE      ; AMBIPOM

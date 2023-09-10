@@ -2826,6 +2826,26 @@ GardevoirPokedexEntry::
 	next "black holes with"
 	next "its psychic powers.@"
 
+SECTION "SurskitPokedexEntry", ROMX
+SurskitPokedexEntry::
+	db "Pond Skater@"
+	db   "It secrets a sweet"
+	next "syrup from its head"
+	next "that resists water"
+	page "to skate on ponds"
+	next "and puddles. The"
+	next "aroma attracts prey@"
+
+SECTION "MasquerainPokedexEntry", ROMX
+MasquerainPokedexEntry::
+	db "Eyeball@"
+	db   "Its antennae look"
+	next "like angry eyes to"
+	next "scare predators. It"
+	page "can fly in any"
+	next "direction like"
+	next "Crobat.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

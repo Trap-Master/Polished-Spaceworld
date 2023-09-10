@@ -309,6 +309,8 @@
 	const RALTS      ; 11a 280
 	const KIRLIA     ; 11b 281
 	const GARDEVOIR  ; 11c 282
+	const SURSKIT    ; 11d 283
+	const MASQUERAIN ; 11e 284
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

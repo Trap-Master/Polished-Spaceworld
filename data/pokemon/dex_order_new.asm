@@ -138,6 +138,8 @@ NewPokedexOrder:
 	dp RALTS
 	dp KIRLIA
 	dp GARDEVOIR
+	dp SURSKIT
+	dp MASQUERAIN
 	dp DITTO
 	dp PINECO
 	dp FORRETRESS

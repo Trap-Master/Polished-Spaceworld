@@ -289,6 +289,8 @@ MiniIconPointers:
 	mini_icon Ralts
 	mini_icon Kirlia
 	mini_icon Gardevoir
+	mini_icon Surskit
+	mini_icon Masquerain
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom

@@ -286,6 +286,8 @@ PokemonNames::
 	rawchar "Ralts@@@@@"
 	rawchar "Kirlia@@@@"
 	rawchar "Gardevoir@"
+	rawchar "Surskit@@@"
+	rawchar "Masquerain"
 	rawchar "Azurill@@@"
 	rawchar "Wynaut@@@@"
 	rawchar "Ambipom@@@"

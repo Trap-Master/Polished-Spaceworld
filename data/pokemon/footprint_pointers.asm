@@ -285,6 +285,8 @@ FootprintPointers::
 	dw RaltsFootprint
 	dw KirliaFootprint
 	dw GardevoirFootprint
+	dw SurskitFootprint
+	dw MasquerainFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

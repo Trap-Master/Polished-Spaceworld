@@ -289,6 +289,8 @@ OverworldMonIconColors::
 	iconpal GREEN, GREEN ; RALTS
 	iconpal GREEN, GREEN ; Kirlia
 	iconpal GREEN, GREEN ; Gardevoir
+	iconpal BLUE, BLUE ; Surskit
+	iconpal RED, RED ; Masquerain
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM
