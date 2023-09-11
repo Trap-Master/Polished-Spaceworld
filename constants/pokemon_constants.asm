@@ -311,6 +311,11 @@
 	const GARDEVOIR  ; 11c 282
 	const SURSKIT    ; 11d 283
 	const MASQUERAIN ; 11e 284
+	const SHROOMISH  ; 11f 285
+	const BRELOOM    ; 120 286
+	const SLAKOTH    ; 121 287
+	const VIGOROTH   ; 122 288
+	const SLAKING    ; 123 289
 	const AZURILL    ; 12a 298
 	const WYNAUT     ; 168 360
 	;NUM_POKEMON EQU SINNOH

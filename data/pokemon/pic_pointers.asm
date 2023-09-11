@@ -291,6 +291,11 @@ PokemonPicPointers::
 	pics Gardevoir
 	pics Surskit
 	pics Masquerain
+	pics Shroomish
+	pics Breloom
+	pics Slakoth
+	pics Vigoroth
+	pics Slaking
 	pics Azurill
 	pics Wynaut
 	pics Ambipom

@@ -293,7 +293,12 @@ PokemonBodyData:
 	body_data   8,  202, BIPEDAL,      WHITE  ; KIRLIA
 	body_data  16,  484, BIPEDAL,      WHITE  ; GARDEVOIR
 	body_data   5,   17, INSECTOID,    BLUE   ; SURSKIT
-	body_data   8,   36, MULTIWINGS,   BLUE   ; MASQUERAIN
+	body_data   8,   36, MULTIWINGS,   WHITE  ; MASQUERAIN
+	body_data   4,   45, HEAD_LEGS,    GREEN  ; SHROOMISH
+	body_data  12,  392, BIPEDAL_TAIL, GREEN  ; BRELOOM
+	body_data   8,  240, QUADRUPED,    BROWN  ; SLAKOTH
+	body_data  14,  465, BIPEDAL_TAIL, WHITE  ; VIGOROTH
+	body_data  20, 1305, BIPEDAL,      BROWN  ; SLAKING
 	body_data   2,   20, HEAD_LEGS,    BLUE   ; AZURILL
 	body_data   6,  140, BIPEDAL_TAIL, BLUE   ; WYNAUT
 	body_data  12,  203, BIPEDAL_TAIL, PURPLE ; AMBIPOM

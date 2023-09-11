@@ -287,6 +287,11 @@ FootprintPointers::
 	dw GardevoirFootprint
 	dw SurskitFootprint
 	dw MasquerainFootprint
+	dw ShroomishFootprint
+	dw BreloomFootprint
+	dw SlakothFootprint
+	dw VigorothFootprint
+	dw SlakingFootprint
 	dw AzurillFootprint
 	dw WynautFootprint
 	dw AmbipomFootprint

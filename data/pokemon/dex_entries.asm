@@ -2846,6 +2846,56 @@ MasquerainPokedexEntry::
 	next "direction like"
 	next "Crobat.@"
 
+SECTION "ShroomishPokedexEntry", ROMX
+ShroomishPokedexEntry::
+	db "Mushroom@"
+	db   "Its lives deep in"
+	next "forests eating damp"
+	next "soil it can release"
+	page "toxic spores from"
+	next "its head so toxic"
+	next "it wilts plants.@"
+
+SECTION "BreloomPokedexEntry", ROMX
+BreloomPokedexEntry::
+	db "Mushroom@"
+	db   "Its short arms"
+	next "stretch and punch"
+	next "like pro-boxers."
+	page "Spores on it tail"
+	next "helps it fall"
+	next "hampered foes.@"
+
+SECTION "SlakothPokedexEntry", ROMX
+SlakothPokedexEntry::
+	db "Slacker@"
+	db   "It loafs all day"
+	next "and sleeps 20 hours"
+	next "a day. Its heart"
+	page "beats once a minuet"
+	next "but it can travel"
+	next "miles via swimming.@"
+
+SECTION "VigorothPokedexEntry", ROMX
+VigorothPokedexEntry::
+	db "Wild Monkey@"
+	db   "Always angry, it"
+	next "cannot sit still or"
+	next "even sleep, always"
+	page "moving as it rages"
+	next "through jungles"
+	next "and mountains.@"
+
+SECTION "SlakingPokedexEntry", ROMX
+SlakingPokedexEntry::
+	db "Lazy@"
+	db   "World's laziest"
+	next "pokemon. It eats"
+	next "all grass around"
+	page "it until reluctant-"
+	next "ly moving to a new"
+	next "spot to repeat.@"
+
 SECTION "AzurillPokedexEntry", ROMX
 AzurillPokedexEntry::
 	db "Polka Dot@"

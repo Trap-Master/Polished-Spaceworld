@@ -291,6 +291,11 @@ OverworldMonIconColors::
 	iconpal GREEN, GREEN ; Gardevoir
 	iconpal BLUE, BLUE ; Surskit
 	iconpal RED, RED ; Masquerain
+	iconpal GREEN, GREEN ; Shroomish
+	iconpal GREEN, GREEN ; Breloom
+	iconpal BROWN, BROWN ; Slakoth
+	iconpal RED, RED ; Vigoroth
+	iconpal BROWN, BROWN ; Slaking
 	iconpal BLUE, GREEN ; AZURILL
 	iconpal AZURE, PURPLE ; WYNAUT
 	iconpal PURPLE, RED ; AMBIPOM

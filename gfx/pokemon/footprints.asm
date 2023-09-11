@@ -113,6 +113,11 @@ KirliaFootprint::
 GardevoirFootprint::
 SurskitFootprint::
 MasquerainFootprint::
+ShroomishFootprint::
+BreloomFootprint::
+SlakothFootprint::
+VigorothFootprint::
+SlakingFootprint::
 ZubatFootprint:: INCBIN "gfx/footprints/blank.1bpp.lz"
 
 BulbasaurFootprint:: INCBIN "gfx/footprints/bulbasaur.1bpp.lz"

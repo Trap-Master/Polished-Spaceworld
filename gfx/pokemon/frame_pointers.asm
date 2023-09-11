@@ -286,6 +286,11 @@ FramesPointers:
 	dw GardevoirFrames
 	dw SurskitFrames
 	dw MasquerainFrames
+	dw ShroomishFrames
+	dw BreloomFrames
+	dw SlakothFrames
+	dw VigorothFrames
+	dw SlakingFrames
 	dw AzurillFrames
 	dw WynautFrames
 	dw AmbipomFrames

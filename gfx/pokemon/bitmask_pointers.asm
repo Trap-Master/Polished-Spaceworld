@@ -286,6 +286,11 @@ BitmasksPointers:
 	dw GardevoirBitmasks
 	dw SurskitBitmasks
 	dw MasquerainBitmasks
+	dw ShroomishBitmasks
+	dw BreloomBitmasks
+	dw SlakothBitmasks
+	dw VigorothBitmasks
+	dw SlakingBitmasks
 	dw AzurillBitmasks
 	dw WynautBitmasks
 	dw AmbipomBitmasks

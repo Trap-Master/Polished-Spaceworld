@@ -287,6 +287,11 @@ AnimationPointers:
 	dw GardevoirAnimation
 	dw SurskitAnimation
 	dw MasquerainAnimation
+	dw ShroomishAnimation
+	dw BreloomAnimation
+	dw SlakothAnimation
+	dw VigorothAnimation
+	dw SlakingAnimation
 	dw AzurillAnimation
 	dw WynautAnimation
 	dw AmbipomAnimation

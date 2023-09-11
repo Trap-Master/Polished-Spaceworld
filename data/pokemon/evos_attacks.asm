@@ -5942,6 +5942,24 @@ MasquerainEvosAttacks:
 	db 1, SCRATCH
 	db 1, LEER ; Tail Whip → similar move
 	db -1 ; no more level-up moves
+	
+ShroomishEvosAttacks:
+	evo_data EVOLVE_LEVEL, 23, BRELOOM
+BreloomEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
+	
+SlakothEvosAttacks:
+	evo_data EVOLVE_LEVEL, 18, VIGOROTH
+VigorothEvosAttacks:
+	evo_data EVOLVE_LEVEL, 26, SLAKING
+SlakingEvosAttacks:
+	db -1 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER ; Tail Whip → similar move
+	db -1 ; no more level-up moves
 
 MismagiusEvosAttacks:
 	db -1 ; no more evolutions

@@ -293,6 +293,11 @@ PokemonCries::
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Gardevoir
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Surskit
 	mon_cry CRY_NIDORAN_M,      0,     0 ; Masquerain
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Shroomish
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Breloom
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Slakoth
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Vigoroth
+	mon_cry CRY_NIDORAN_M,      0,     0 ; Slaking
 	mon_cry CRY_MARILL,      $11b,  $120 ; Azurill
 	mon_cry CRY_AMPHAROS,    $27b,  $144 ; Wynaut
 	mon_cry CRY_TYROGUE,    -$051,  $0e8 ; Ambipom

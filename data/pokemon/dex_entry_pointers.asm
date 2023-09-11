@@ -288,6 +288,11 @@ PokedexDataPointerTable:
 	dba GardevoirPokedexEntry
 	dba SurskitPokedexEntry
 	dba MasquerainPokedexEntry
+	dba ShroomishPokedexEntry
+	dba BreloomPokedexEntry
+	dba SlakothPokedexEntry
+	dba VigorothPokedexEntry
+	dba SlakingPokedexEntry
 	dba AzurillPokedexEntry
 	dba WynautPokedexEntry
 	dba AmbipomPokedexEntry

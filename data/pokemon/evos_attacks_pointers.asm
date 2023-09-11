@@ -291,6 +291,11 @@ EvosAttacksPointers::
 	dw GardevoirEvosAttacks
 	dw SurskitEvosAttacks
 	dw MasquerainEvosAttacks
+	dw ShroomishEvosAttacks
+	dw BreloomEvosAttacks
+	dw SlakothEvosAttacks
+	dw VigorothEvosAttacks
+	dw SlakingEvosAttacks
 	dw AzurillEvosAttacks
 	dw WynautEvosAttacks
 	dw AmbipomEvosAttacks

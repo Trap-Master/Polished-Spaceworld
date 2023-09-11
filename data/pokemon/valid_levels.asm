@@ -289,6 +289,11 @@ ValidPokemonLevels: ; for Wonder Trade
 	db  30, 100 ; Gardevoir
 	db   1,  21 ; Surskit
 	db  22, 100 ; Masquerain
+	db   1,  22 ; Shroomish
+	db  23, 100 ; Breloom
+	db   1,  17 ; Slakoth
+	db  18,  35 ; Vigoroth
+	db  36, 100 ; Slaking
 	db   1,  19 ; Wynaut
 	db  35, 100 ; Ambipom
 	db  40, 100 ; Mismagius

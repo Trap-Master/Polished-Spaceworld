@@ -24,6 +24,7 @@ AlphabeticalPokedexOrder:
 	dp BLAZIKEN
 	dp BLISSEY
 	dp BONSLY
+	dp BRELOOM
 	dp BULBASAUR
 	dp BUTTERFREE
 	dp CASCOON
@@ -247,11 +248,14 @@ AlphabeticalPokedexOrder:
 	dp SENTRET
 	dp SHELLDER
 	dp SHIFTRY
+	dp SHROOMISH
 	dp SHUCKLE
 	dp SILCOON
 	dp SIRFETCH_D
 	dp SKARMORY
 	dp SKIPLOOM
+	dp SLAKING
+	dp SLAKOTH
 	dp SLOWBRO
 	dp SLOWKING
 	dp SLOWPOKE
@@ -303,6 +307,7 @@ AlphabeticalPokedexOrder:
 	dp VENONAT
 	dp VENUSAUR
 	dp VICTREEBEL
+	dp VIGOROTH
 	dp VILEPLUME
 	dp VOLTORB
 	dp VULPIX

@@ -143,6 +143,8 @@ NewPokedexOrder:
 	dp DITTO
 	dp PINECO
 	dp FORRETRESS
+	dp SHROOMISH
+	dp BRELOOM
 	dp NIDORAN_F
 	dp NIDORINA
 	dp NIDOQUEEN
@@ -255,6 +257,11 @@ NewPokedexOrder:
 	dp LEAFEON
 	dp GLACEON
 	dp SYLVEON
+	dp MUNCHLAX
+	dp SNORLAX
+	dp SLAKOTH
+	dp VIGOROTH
+	dp SLAKING
 	dp HORSEA
 	dp SEADRA
 	dp KINGDRA
@@ -305,8 +312,6 @@ NewPokedexOrder:
 	dp KABUTO
 	dp KABUTOPS
 	dp AERODACTYL
-	dp MUNCHLAX
-	dp SNORLAX
 	dp DRATINI
 	dp DRAGONAIR
 	dp DRAGONITE

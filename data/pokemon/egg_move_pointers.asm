@@ -287,6 +287,11 @@ EggMovePointers::
 	dw NoEggMoves             ; Gardevoir
 	dw NoEggMoves             ; Surskit
 	dw NoEggMoves             ; Masquerain
+	dw NoEggMoves             ; Shroomish
+	dw NoEggMoves             ; Breloom
+	dw NoEggMoves             ; Slakoth
+	dw NoEggMoves             ; Vigoroth
+	dw NoEggMoves             ; Slaking
 	dw AzurillEggMoves        ; Azurill
 	dw WynautEggMoves         ; Wynaut
 	dw NoEggMoves             ; Ambipom

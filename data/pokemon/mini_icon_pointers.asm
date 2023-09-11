@@ -291,6 +291,11 @@ MiniIconPointers:
 	mini_icon Gardevoir
 	mini_icon Surskit
 	mini_icon Masquerain
+	mini_icon Shroomish
+	mini_icon Breloom
+	mini_icon Slakoth
+	mini_icon Vigoroth
+	mini_icon Slaking
 	mini_icon Azurill
 	mini_icon Wynaut
 	mini_icon Ambipom
